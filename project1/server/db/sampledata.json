@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Project1 App",
+        "position": "Administrator",
+        "level": "Senior"
+    },
+    {
+        "name": "Krishna Tangirala",
+        "position": "Architect",
+        "level": "Senior"
+    },
+    {
+        "name": "Vamsi Mohan",
+        "position": "Intern",
+        "level": "Student"
+    }
+]
