@@ -6,7 +6,9 @@
   "scripts": {
     "server": "node server/server.js",
     "client": "npm start --prefix client",
+    "clientbuild": "npm run build --prefix client",
     "dev": "concurrently \"npm run client\" \"npm run server\"",
+    "build": "concurrently \"npm run clientbuild\" \"npm run client\" \"npm run server\"",
     "build:cp": "cd client && rm -rf build && npm run build && cp -r build ../server"
   },
   "keywords": [],
