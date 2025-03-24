@@ -1,21 +1,20 @@
-import React, { useState, useEffect } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Home from './components/Home';
+import Project1 from './components/project1/index';
+import Project2 from './components/project2/index';
 
-const App = () => {
-    const [message, setMessage] = useState('');
-
-    useEffect(() => {
-        fetch('/api')
-            .then((response) => response.json())
-            .then((data) => setMessage(data.message))
-            .catch((err) => console.error(err));
-    }, []);
-
-    return (
-        <div>
-            <h1>React + Node.js App</h1>
-            <p>{message}</p>
-        </div>
-    );
-};
+function App() {
+  return (
+    <div>
+        <Router>
+            <Routes>
+                <Route path="/" element={<Home />} />
+                <Route path="/project1/*" element={<Project1 />} />
+                <Route path="/project2/*" element={<Project2 />} />
+            </Routes>
+        </Router>
+    </div>
+  );
+}
 
 export default App;
