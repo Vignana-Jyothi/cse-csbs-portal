@@ -3,8 +3,8 @@ function Home() {
     <div>
         <h2>Main CS Portal</h2>
         <ul>
-          <li><a target='_blank' href="/project1">Project 1</a></li>
-          <li><a target='_blank' href="/project2">Project 2</a></li>
+          <li><a href="/project1">Project 1</a></li>
+          <li><a href="/project2">Project 2</a></li>
         </ul>
     </div>
   );
