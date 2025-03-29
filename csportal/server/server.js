@@ -4,8 +4,8 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
-const project1Router = require("./routes/project1Router");
-const project2Router = require("./routes/project2Router");
+const project1Router = require("./routes/project1/router");
+const project2Router = require("./routes/project2/router");
 
 const app = express();
 const PORT = 5000;
