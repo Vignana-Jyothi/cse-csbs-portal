@@ -1,0 +1,1215 @@
+EmployeeCode,EmployeeName,Email,Mobile,Gender,Department,Designation,Status
+00ADM011,Pdv Maha Lakshmi,-,9989259817,Female,LIB,Record Assistant,Active
+00CSE003,Dr Vadlana Baby,baby_v@vnrvjiet.in,9160141117,Female,CSE,Assoc.Prof & HOD,Active
+00CSE007,Dr Malige Gangappa,gangappa_m@vnrvjiet.in,9618949554,Male,CSE,Associate Professor,Active
+00CSE008,Dr. Talluri Sunil Kumar,sunilkumar_t@vnrvjiet.in,9849871132,Male,"DS,CS&AIDS",Professor & HOD,Active
+00CSE010,Dr. Pasupuleti Venkata Siva Kumar,sivakumar_pv@vnrvjiet.in,9989767891,Male,CSE,Associate Professor,Active
+00ECE004,Dr. Vasagiri  Krishnasree,krishnasree_v@vnrvjiet.in,9848054170,Female,ECE,Associate Professor,Inactive
+00ITD012,Dr. Gali Suresh Reddy,sureshreddy_g@vnrvjiet.in,9848186545,Male,IT,Professor,Active
+011ITD018,Pinninti Swetha,swetha_it@vnrvjiet.in,9642444433,Female,IT,Asst. Comp. Programmer,Active
+01ADM007,Ramesh  Gandani,-,9550133168,Male,HK,Sweeper / Helper,Active
+01ADM012,Srinivas  Gurram,gurramsrinivas54@gmail.com,9505048157,Male,HK,House Keeper,Inactive
+01ADM013,Kumara Swamy Andri,na@vnrvjiet.in,7382060650,Male,ADM,Attender,Inactive
+01ECE004,Dr.Padmaja  Vangala,padmaja_v@vnrvjiet.in,9848027821,Female,ECE,Professor,Inactive
+01EEE005,Bandi Usha Rani,usharani_cse@vnrvjiet.in,9494063269,Female,CSE,Junior Computer  Programmer,Active
+01EEE006,Dr. Poonam Upadhyay,upadhyay_p@vnrvjiet.in,9885280851,Female,EEE,Professor,Active
+01EIE008,Dr. Mulam Harikrishna,harikrishna_m@vnrvjiet.in,6302097710,Male,EIE,Associate Professor,Active
+01HSS001,Dr.Murali Krishna Kakumanu,muralikrishna_k@vnrvjiet.in,9849390919,Male,HSS,Associate Professor,Inactive
+01HSS011,Dr. Joshi Manik Rao Srinivas,srinivas_j@vnrvjiet.in,9849205692,Male,MATHS&MANAGEMENT,Sr.Assistant Professor,Active
+02ADM001,Pandu  Kolluri,na@vnrvjiet,00000,Male,ADM,Attender,Inactive
+02ADM002,Ratnala BalRaj,-,8186904970,Male,T&P,Record Assistant,Active
+02ADM003,Amburi Darshan,-,9441387763,Male,Engg Cell,Plumber,Active
+02ADM007,Peda Anjaiah Sankula,anjaiah_lib@vnrvjiet.in,9949309293,Male,LIB,Jr. Asst. Librarian,Active
+02ECE011,Ghanta Sahitya,sahitya_g@vnrvjiet.in,8008362020,Female,ECE,Assistant Professor,Active
+02EIE005,Chikati Venkata Rambabu,rambabu_cv@vnrvjiet.in,9949911997,Male,EIE,Sr.Assistant Professor,Active
+02EIE008,Anita Kulkarni,anitha_kulkarni@vnrvjiet.in,9493105456,Female,EIE,Associate Professor,Active
+02HSS002,Kalpana  Cherukuri,kalpana_c@vnrvjiet.in,9959922611,,HSS,Assistant Professor,Inactive
+02HSS012,Dr. Bandla Prathyusha,prathyusha_b@vnrvjiet.in,8143186064,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+02LIB009,Macha Venkata Phani Kumar,phani_library@vnrvjiet.in,9849545333,Male,LIB,Sr. Asst. Librarian,Inactive
+03ADM001,Mohammed Anwar,anwar_it@vnrvjiet.in,9949498778,Male,IT,Record Assistant,Active
+03ADM002,Neelavathi  Chetukula,aa@vnrvjiet.in,9912044995,Female,HK,Sweeper / Helper,Active
+03ADM012,Gurumanchi Bhaskar,bhaskar2020.bg58@gmail.com,9177925700,Male,ECE,Attender,Active
+03CED017,Dr. Boppana Narendra Kumar,narendrakumar_b@vnrvjiet.in,9849707259,Male,CE,Professor,Active
+03CSE003,Sreedhar  Kalikat,na@vnrvjiet.in,9849862780,Male,CSE,Record Assistant,Active
+03ECE009,Dr Narra Dhana Lakshmi,dhanalakshmi_n@vnrvjiet.in,7093881258,Female,ECE,Associate Professor,Active
+03ITD011,Dr Baikadolla Mathura Bai,mathurabai_b@vnrvjiet.in,9989302035,Female,IT,Associate Professor,Active
+03ITD013,Dr. Nimmala Mangathayaru,mangathayaru_n@vnrvjiet.in,9866481153,Female,IT,Professor & HOD,Active
+03LIB019,Ranganayakulu  M.L.,ranganayakulu_library@vnrvjiet.in,9908266490,Male,LIB,Sr. Asst. Librarian,Active
+03MED005,Dr. Mandala Venkata Ramana,venkataramana_m@vnrvjiet.in,9849768437,Male,AE,Professor,Active
+03MED007,Dr. Yeole Shivraj Narayan,shivrajyeole@vnrvjiet.in,9849272656,Male,ME,Professor,Active
+04ADM001,Ravi  Begari,na@vnrvjiet.in,9492060873,Male,ADM,Attender,Active
+04CED002,Dr. Alapati Mallika,mallika_a@vnrvjiet.in,9849738438,Female,CE,Professor,Active
+04ITD005,Gutta Rama Krishna,ramakrishna_it@vnrvjiet.in,9866070714,Male,IT,Network and H/w Programmer,Active
+05ADM012,Gurunadha Rao Tanuru,tanurigurunadharao@gmail.com,9573578099,Male,Engg Cell,Sr. Site Supervisor,Active
+05ADM020,Velagapudi Dhana Lakshmi,dhanalakshmi_cse@vnrvjiet.in,8500031053,Female,CSE,Asst. Comp. Programmer,Active
+05CED005,Naga Malleswara Rao Bapanapalli,civilhead@vnrvjiet.in,9440499755,Male,CE,Assistant Professor,Inactive
+05CED013,Dr. Bommisetty Durga Venkata Chandra Mohan Rao,chandramohanrao_bdv@vnrvjiet.in,9949170722,Male,CE,Professor,Active
+05ECE010,Dr Kanneganti Lakshmi Venkata Ramana Kumari,ramanakumari_jlv@vnrvjiet.in,9848980119,Female,ECE,Assistant Professor,Active
+05EEE009,Dr Gedela Sasi Kumar,sasikumar_g@vnrvjiet.in,9490994119,Male,EEE,Associate Professor,Active
+05EIE017,Suneetha  Ravi,suneetha_r@vnrvjiet.in,8978728360,Female,EIE,Instructor,Active
+05HSS018,Sandhya  Bhataram,sandhyasharma_b@vnrvjiet.in,9704738396,Male,HSS,Assistant Professor,Inactive
+05MED006,Dr. Mandava Venkata Ramana Durga Prasad,prasad_mvrd@vnrvjiet.in,8977117054,Male,ME,Professor,Active
+06ADM012,Rajavardhan reddy  Salkuti,na@vnrvjiet.in,9912959160,Male,ADM,Driver,Active
+06ADM017,Potharaju Aravind Kumar,aravindkumar_hands@vnrvjiet.in,9492755738,Male,HSS,Attender,Inactive
+06ADM025,Patibandla Parvathi,parvathi_ao@vnrvjiet.in,9391539578,Female,ADM,Senior Accountant,Inactive
+06ADM032,Satish Kumar Tentu,satish_t83@yahoo.co.in,9494778528,Male,Engg Cell,Sr. Skilled Asst.,Active
+06CSE035,Sathish A V N,na@vnrvjiet.in,8639782260,Male,ADM,Computer Operator,Inactive
+06ECE024,Dr Aytha Ramesh Kumar,rameshkumar_a@vnrvjiet.in,9866081447,Male,ECE,Associate Professor,Active
+06ECE041,Dr Sundara Raj Helan Satish,helan_satish@vnrvjiet.in,9989969928,Female,ECE,Assistant Professor,Active
+06EIE010,Dr. Satyamurthy Pranavanand,pranavanand_s@vnrvjiet.in,9000524505,Male,EIE,Assoc.Prof & HOD,Active
+06EIE026,Dr. Voruganti Nageshwar,nageshwar_v@vnrvjiet.in,9985503033,Male,EIE,Associate Professor,Active
+06EIE027,Dr. Kandru Sudha Rani,sudharani_k@vnrvjiet.in,9553004409,Female,EIE,Associate Professor,Active
+06HSS016,Dr.Jayashree  Tatineni,jayashree_t@vnrvjiet.in,9948643949,Female,HSS,Professor,Inactive
+06HSS037,Dr. Cherukuri Jyotsna,jyotsna_c@vnrvjiet.in,9848834565,Female,CHEMISTRY,Professor & HOD,Active
+06LIB011,Dr Parvatheneni Raghavaiah,raghavaiah@vnrvjiet.in,9493216716,Male,MATHS&MANAGEMENT,Associate Professor,Active
+06MED015,Kuchimanchi Kodanda Ram,k_kodandaram@vnrvjiet.in,9490746990,Male,AE,Associate Professor,Inactive
+06MED035,Dr. Talluri Srinivasa Rao,srinivasarao_t@vnrvjiet.in,9848082365,Male,AE,Professor,Active
+06PED001,Subramanyam  SIRIPURAPU,na@vnrvjiet.in,9885715991,Male,SPORTS,Other Satff,Inactive
+06PED002,Sagai raj  A,na@vnrvjiet.in,9949779728,Male,SPORTS,Other Satff,Inactive
+06PED032,Veera swamy  Narra,na@vnrvjiet.in,00000000000,Male,SPORTS,Assistant Professor,Inactive
+07ADM012,Srinivasa rao  Dasari,d.srinivasrao@vjim.edu.in,9951526691,Male,Engg Cell,Sr. Skilled Asst.,Inactive
+07ADM017,Ramesh  Ratnala,na@vnrvjiet.in,9640429592,Male,ADM,Attender,Active
+07ADM046,Rama Prasada rao Mitta,ramprasad_examcell@vnrvjiet.in,9912925266,Male,ADM,Sr Assistant,Active
+07CED062,Dr Adepu Ramesh,ramesh_a@vnrvjiet.in,9849548714,Male,CE,Professor,Active
+07CSE011,Alli Madhavi,madhavi_a@vnrvjiet.in,9885077520,Female,CSE,Assistant Professor,Active
+07CSE018,Dr Nekkanti Venkata Sailaja,sailaja_nv@vnrvjiet.in,9866022320,Female,CSE,Assistant Professor,Active
+07CSE021,Dr.Ramesh chandra  Gollapudi,rameshchandra_g@vnrvjiet.in,09885497583,Male,CSE,Professor,Active
+07CSE023,Dr Kousar Nikhath Alpuri,kousarnikhath@vnrvjiet.in,9849346786,Female,CS-AIMLIOT,Associate Professor,Active
+07CSE028,Dr. Desapandya Naga Vasundara,Vasundhara_d@vnrvjiet.in,9490258942,Female,CSE,Assistant Professor,Active
+07CSE054,Kanagala Jhansi Lakshmi Bai,jhansi_cse@vnrvjiet.in,9966697606,Female,CSE,Assistant Professor,Active
+07CSE061,Dr Ravuri Vasavi,vasavi_r@vnrvjiet.in,9948468625,Female,CSE,Assistant Professor,Active
+07CSE063,Dr Redrowthu Vijaya saraswathi,vijayasaraswathi_r@vnrvjiet.in,9492433442,Female,CSE,Assistant Professor,Active
+07ECE001,Kakumani Aruna Kumari,arunakumari_k@vnrvjiet.in,8106976335,Female,ECE,Assistant Professor,Active
+07ECE016,Bijiga Murali Krishna,muralikrishna_ece@vnrvjiet.in,9704240394,Male,EIE,Computer Operator,Active
+07EEE002,Dr. Yarlagadda Venu,venu_y@vnrvjiet.in,9985168591,Male,EEE,Associate Professor,Active
+07EEE006,Dr. Narahari Krishna Kumari,krishnakumari_n@vnrvjiet.in,9703268867,Female,EEE,Professor,Active
+07EEE007,Geetha  Adinarayanan,geetha_eee@vnrvjiet.in,9603938218,Female,EEE,Instructor,Active
+07EEE036,Dr Radhika  Goru,radhika_g@vnrvjiet.in,9618618222,Female,EEE,Sr.Assistant Professor,Active
+07EEE065,Karuturi Ramesh,ramesh_eee@vnrvjiet.in,9989334776,Male,EEE,Junior Computer  Programmer,Active
+07EIE055,Daniel Shobhana Priscilla,shobana_dv@vnrvjiet.in,9989155340,Female,EIE,Sr.Assistant Professor,Active
+07HSS052,Dr. Nalimela Pothanna,pothanna_n@vnrvjiet.in,9440130488,Male,MATHS&MANAGEMENT,Associate Professor,Active
+07ITD044,Tene Ravi,ravi_t@vnrvjiet.in,9966674449,Male,IT,Assistant Professor,Active
+07ITD059,Kondabala Renuka,renuka_k@vnrvjiet.in,9676524557,Female,IT,Assistant Professor,Active
+08ADM006,P  Siva krishna,aa@vnrvjiet.in,9133848485,Male,ADM,Skilled Assistant,Inactive
+08ADM020,Babu Rao Duddu,baburao_d@vnrvjiet.in,9441173258,Male,ADM,Security,Inactive
+08ADM023,Srinivas rao  Boddapati,na@vnrvjiet.in,9246161609,Male,T&P,Sr Assistant,Active
+08ADM024,Susheela  Pasula,aa@vnrvjiet.in,9553373102,Female,HK,Sweeper / Helper,Active
+08ADM025,Shoba  Pasula,aa@vnrvjiet.in,9100770322,Female,HK,Sweeper / Helper,Active
+08ADM064,Lakshmi Saroja Duggirala,saroja_ao@vnrvjiet.in,9652066953,Female,Engg Cell,Senior Accountant,Active
+08ADM081,Rani  Bagari,aa@gmail.com,7382060650,Female,HK,House Keeper,Active
+08ADM082,Appa rao  Chiguluri,na@vnrvjiet.in,9949643584,Male,Engg Cell,Other Satff,Inactive
+08CSE001,Lakshmi Priyadarsini Turumella,priyadarsini_tl@vnrvjiet.in,9701600836,Female,CSE,Assistant Professor,Inactive
+08CSE026,Maddineni Rambabu,rambabu_cse@vnrvjiet.in,9849674960,Male,CSE,computer programmer,Active
+08CSE028,Dr. Gouri Shetty Ramesh,ramesh_gs@vnrvjiet.in,9912205795,Male,CSE,Assistant Professor,Inactive
+08CSE066,Dr Pathi Radhika,radhika_p@vnrvjiet.in,8977922875,Female,CSE,Assistant Professor,Active
+08ECE017,Dr Kunapareddy Jyostna,jyostna_k@vnrvjiet.in,9441530279,Female,ECE,Assistant Professor,Active
+08ECE039,Dr Archana Bhange K,archana_k@vnrvjiet.in,9177033033,Female,ECE,Sr.Assistant Professor,Active
+08ECE055,Dr Dasara  KanthiSudha,kanthisudha_d@vnrvjiet.in,9246818460,Female,ECE,Assistant Professor,Active
+08EEE035,Dr. Dasari Ravi Kumar,ravikumar_d@vnrvjiet.in,9704564779,Male,EEE,Associate Professor,Active
+08EEE041,Dr. Turaka Nireekshana,nireekshana_t@vnrvjiet.in,9703013127,Female,EEE,Associate Professor,Inactive
+08EEE058,Pinapilli Ramesh,ramesh_p@vnrvjiet.in,9704014245,Male,EEE,Assistant Professor,Active
+08EIE009,Bhavineni Bharat Kumar,bharath_eie@vnrvjiet.in,9490083090,Male,ADM,Computer Operator,Active
+08HOADM04,Venkatesh  I,00@00,8143138385,Male,HeadOffice,Attender,Active
+08HSS010,Dr Prativa Rani Saha,prativarani_saha@vnrvjiet.in,9908641244,Female,ENGLISH,Assistant Professor,Active
+08HSS075,Dr. Podila Aparna,aparna_p@vnrvjiet.in,9246805457,Female,MATHS&MANAGEMENT,Assoc.Prof & HOD,Active
+08ITD029,Koteswara Rao Moparthy,koteswararao_m@vnrvjiet.in,9030843568,Male,IT,Assistant Professor,Active
+08ITD067,Dr. Bandari Jalender,jalender_b@vnrvjiet.in,9849501514,Male,IT,Associate Professor,Active
+08ITD068,Dr. Yelipe Usha Rani,usharani_y@vnrvjiet.in,9032783528,Female,IT,Assistant Professor,Active
+08ITD073,Manasa Devi Mortha,manasadevi_m@vnrvjiet.in,9951987802,Female,CSE,Assistant Professor,Inactive
+08ITD078,Annam Revathi,revathi_a@vnrvjiet.in,9502319740,Female,IT,Assistant Professor,Active
+08ITD081,Suda Kumara swamy,kumaraswamy_it@vnrvjiet.in,9912643579,Male,IT,Asst. Comp. Programmer,Active
+08ITD083,Dr. Dammavalam Srinivasa Rao,srinivasarao_d@vnrvjiet.in,9966232722,Male,IT,Associate Professor,Active
+08MED051,Dr. Sagiraju Venkata Satya Surya Srinivasa Raju,srinivasaraju_svss@vnrvjiet.in,9885206066,Male,ME,Professor,Inactive
+09ADM008,Vijaya Krishna Cherukuru,cvk1984@gmail.com,9666573234,Male,ADM,Sr. Manager,Active
+09ADM018,Dr.D  Pardhasaradhi,pardha@vnrvjiet.in,9949571379,Male,HSS,Professor,Inactive
+09ADM019,Madhusudhana rao  Vella,na@vnrvjiet.in,8977909409,Male,ADM,Driver,Active
+09ADM044,Enrala Ravi,enralaravi@gmail.com,9490021662,Male,ADM,Record Assistant,Active
+09ADMN006,Lakshmi  Guguloth,aa@vnrvjiet.in,9949519965,,LIB,Attender,Inactive
+09CED035,Jyothi  Manik,jyothi_manik@vnrvjiet.in,9951933044,Female,CE,Assistant Professor,Inactive
+09CSE002,Sravani  Nalluri,sravani_n@vnrvjiet.in,8885507638,Female,CSE,Assistant Professor,Inactive
+09CSE037,Vattigunta Vijaya Lakshmi,vijayalakshmi_cse@vnrvjiet.in,7702884597,Female,CSE,Asst. Comp. Programmer,Active
+09CSE043,Jothsna  Duggirala,jothsna_d@vnrvjiet.in,9885198257,Female,CSE,Junior Computer  Programmer,Inactive
+09ECE029,Vodnala Naveen kumar,naveenkumar_v@vnrvjiet.in,9989445443,Male,ECE,Assistant Professor,Active
+09HSS021,Dr. Kondapavuluri Madhavi,madhavik@vnrvjiet.in,9949889898,Female,CHEMISTRY,Assistant Professor,Active
+09HSS042,Dr. Papolu Padmavathi,padmavathi_p@vnrvjiet.in,9885321949,Female,CHEMISTRY,Assistant Professor,Active
+09MED003,Dr. Paruchuru Satya prasad,psprasad@vnrvjiet.in,9948832784,Male,ME,Professor,Active
+10ADM007,P Narasimha,Pnarasimha321@gmail.com,9989743861,Male,Engg Cell,Mason,Active
+10CSE006,Rudrarapu Kranthi Kumar,kranthikumar_r@vnrvjiet.in,9959533676,Male,CSE,Assistant Professor,Active
+10CSE010,Avula Katyayani,katyayani_cse@vnrvjiet.in,9963949218,Female,CSE,Asst. Comp. Programmer,Active
+10CSE016,Thuraka Gnana Prakash,gnanaprakash_t@vnrvjiet.in,9985223272,Male,CSE,Assistant Professor,Active
+10CSE023,Dr. Annapu Reddy Brahmananda Reddy,brahmanandareddy_a@vnrvjiet.in,9010008785,Male,CSE,Associate Professor,Active
+10EEE015,Dr. Edara Shiva Prasad,shivaprasad_e@vnrvjiet.in,9885977474,Male,EEE,Associate Professor,Active
+10HSS018,Dr. Gurejala Jithender Reddy,jithenderreddy_g@vnrvjiet.in,9848512037,Male,MATHS&MANAGEMENT,Sr.Assistant Professor,Active
+10HSS020,Dr Dornala Swarnakar,swarnakar_d@vnrvjiet.in,9177445446,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+10HSS022,Padmaja  Kakumanu,padmaja_k@vnrvjiet.ac.in,9989500654,Female,HSS,Assistant Professor,Inactive
+10HSS026,Dr. Kanchana  Sundaram,kanchana_s@vnrvjiet.in,9866838285,Female,ENGLISH,Associate Professor,Active
+10HSS028,Dr. Bhogi Ashok,ashok_b@vnrvjiet.in,9000765579,Male,PHYSICS,Sr. Assistant Professor & HOD,Active
+10HSS029,Dr. Potuganti Pavan Kumar,pavankumar_p@vnrvjiet.in,9000508088,Male,PHYSICS,Assistant Professor,Active
+10ITD021,Dr. Golla Madhu,madhu_g@vnrvjiet.in,9849085728,Male,IT,Professor,Active
+10MED005,Dr. Kode Jaya Prakash,jayaprakash_k@vnrvjiet.in,9866764266,Male,ME,Assistant Professor,Active
+10PED017,Allen victoria Rani Pamabala,na@vnrvjiet.in,7075182207,Female,SPORTS,Nurse,Active
+10RCC032,Shaik Mahboob subhani,skmsubhaniiti@gmail.com,9553374570,Male,RCC,Skilled Assistant,Active
+11ADM007,Durgi Sathyanarayana,sathyanarayana_hands@vnrvjiet.in,8341993927,Male,HSS,Junior Computer  Programmer,Inactive
+11ADM016,Mallesh  Goshike,mallesh_paac@vnrvjiet.in,8977099982,Male,ADM,Junior Computer  Programmer,Inactive
+11ADM035,Obulesu  Challa,academics@vnrvjiet.in,9441217569,Male,ADM,Sr Assistant,Active
+11ADM037,Narendra Babu Gutta,narendrababu_g@vnrvjiet.in,8977836569,Male,ADM,Manager,Inactive
+11ADM041,Anitha  Nayekoti,aa@vnrvjiet.in,9666259416,Female,HK,Sweeper / Helper,Active
+11CSE010,Dr Gujjeti Nagaraju,nagaraju_g@vnrvjiet.in,8919894314,Male,CS-AIMLIOT,Assistant Professor,Active
+11ECE009,Dr. Choppakatla Naga Deepa,nagadeepa_ch@vnrvjiet.in,9848005635,Female,ECE,Assistant Professor,Inactive
+11ECE021,Shaik Khadar Sharif,shaikkhadarsharif@vnrvjiet.in,9492817569,Male,ECE,Associate Professor,Active
+11ECE023,Dr Lanka Dharma Teja,dharmateja_l@vnrvjiet.in,9866907866,Female,ECE,Assistant Professor,Active
+11ECE034,Shilpa  K.S.,shilpa_ks@vnrvjiet.in,7702277936,,ECE,Assistant Professor,Inactive
+11EIE004,Dr Kamireddy Vijay Chandra,vijaychandra_k@vnrvjiet.in,8099683891,Male,EIE,Assistant Professor,Active
+11EIE022,Apparasu Adithya Kashyap,adithyakashyap_a@vnrvjiet.in,9704112891,Male,EIE,Assistant Professor,Active
+11EIE047,Sonkoju Nagarjuna Chary,nagarjunachary_s@vnrvjiet.in,9032661948,Male,EIE,Assistant Professor,Active
+11ITD017,Dr Gogulamudi Naga Chandrika,nchandrika_g@vnrvjiet.in,9948404488,Female,IT,Assistant Professor,Active
+11ITD040,Purushothama Naidu Challa,Purushothamanaiu_c@vnrvjiet.in,9032005099,Male,IT,Network &H/W Programmer,Active
+11MED020,Dr. Jayashri Narayana Nair,jayashri@vnrvjiet.in,9550852321,Female,ME,Assistant Professor,Active
+11MED039,Karri Murali,murali_k@vnrvjiet.in,9948704073,Male,ME,Asst. Comp. Programmer,Active
+11PED042,Gundala Arunakumari,aa@vnrvjiet.in,9701406948,Female,SPORTS,Other Satff,Active
+11PED049,Venkata Sri krishna murthy Gollamudi,gvsk1958@gmail.com,9966222092,Male,SPORTS,Other Satff,Inactive
+11RCC048,Allu Kiran Kumar,kirankumar_rcc@vnrvjiet.in,9133305606,Male,AE,Junior Computer  Programmer,Inactive
+12ADM011,Thottempudi Subrahmanyam,subrahmanyam_ao@vnrvjiet.in,9885880095,Male,ADM,Senior Accountant,Active
+12ADM036,Baby Malathi Sooroju,Malathi_aaee@vnrvjiet.in,7416321606,Female,CE,Junior Computer  Programmer,Inactive
+12ADM041,Venkata Krishna rao Mandava,krishnarao_ao@vnrvjiet.in,9494493930,Male,ADM,Senior Accountant,Active
+12ADM049,Kancheti Ravi Kumar,ravikumar_teqip@vnrvjiet.in,7032378282,Male,ADM,Asst. Comp. Programmer,Active
+12ADM051,Srinivas  Mustabada,msrinivas_housekeeping@vnrvjiet.in,9160916042,Male,HK,Supervisor,Active
+12ADM064,Suman Kumar Gudapati,suman_audit@vnrvjiet.in,9949889878,Male,ADM,Junior Computer  Programmer,Inactive
+12ADM088,V Srihari,v.srihari2009@gmail.com,8897959969,Male,Engg Cell,Site Engineer,Active
+12AME050,Vella Chandrasekhar Rao,vcsrao19@gmail.com,8099070586,Male,AE,Skilled Assistant,Active
+12AME057,Chintakinda Suresh,chsuresh1993@gmail.com,9000118320,Male,AE,Attender,Inactive
+12AME065,Gundapu Raj Kumar,rajkumar_ame@vnrvjiet.in,9949221348,Male,AE,Sr. Skilled Asst.,Active
+12CED060,Dr. Kommu Suresh,suresh_k@vnrvjiet.in,9848343356,Male,CE,Sr.Assistant Professor,Active
+12CED061,Mindi Nagabhushana Rao,nagabhushnarao_civil@vnrvjiet.in,9849951948,Male,CE,Instructor,Active
+12CSE015,Dr.Sagar  Yeruva,sagaryeruva@gmail.com,9908222946,Male,CS-AIMLIOT,Assoc.Prof & HOD,Active
+12CSE023,Dr. Pulipati Venkateswara Rao,venkateswararao_p@vnrvjiet.in,8008327164,Male,CSE,Assistant Professor,Inactive
+12CSE034,Jincy  P R,jincy_cse@vnrvjiet.in,9396210220,Female,CSE,Computer Operator,Inactive
+12CSE053,Mannepalli Venkata Krishna Rao,venkatakrishnarao_cse@vnrvjiet.in,9866693404,Male,CSE,Assistant Professor,Active
+12ECE047,Dr Ghanta Shanthi,shanthi_g@vnrvjiet.in,8500781972,Female,ECE,Assistant Professor,Active
+12ECE071,Dr Gurrala Vijaya Kumar,vijayakumar_g@vnrvjiet.in,9493250773,Male,ECE,Assistant Professor,Active
+12ECE074,Veeramosu Priyanka Brahmaiah,priyanka_v@vnrvjiet.in,9000455775,Female,ECE,Assistant Professor,Active
+12EEE013,Bommasani Ganesh Babu,ganeshbabu_b@vnrvjiet.in,9701479258,Male,EEE,Assistant Professor,Active
+12EEE020,Dr. Ranjit  Mahamkali,ranjit_m@vnrvjiet.in,9985729190,Male,EEE,Assistant Professor,Inactive
+12EEE075,Marella Nagajyothi,nagajyothi_m@vnrvjiet.in,9246524889,Female,EEE,Assistant Professor,Active
+12EEE077,Gutta Chaitanya Prabhakar,prabhakar_gc@vnrvjiet.in,7382589101,Male,EEE,Assistant Professor,Active
+12EIE016,Samanthula Vandana,vandana_s@vnrvjiet.in,9989322592,Female,EIE,Assistant Professor,Active
+12EIE069,Dr. Chakravarthula Kiran,kiran_c@vnrvjiet.in,9030751024,Male,EIE,Associate Professor,Active
+12EIE070,Gonuguntla Vamsi Krishna,vamsikrishna_g@vnrvjiet.in,9705421310,Male,EIE,Assistant Professor,Active
+12EIE083,Bharathi S S,bharatisagi_s@vnrvjiet.in,9441781157,Female,EIE,Assistant Professor,Active
+12HOADM05,Gopal Reddy K,000@aa,9441785183,Male,HeadOffice,Other Satff,Inactive
+12HOADM06,Vijaya sri  M,movva.vijayasree@gmail.com,9491871363,Female,HeadOffice,Senior Administrative Assistant,Active
+12HSS081,Dr. Tumarada Rajani,rajini_t@vnrvjiet.in,9505462849,Female,PHYSICS,Assistant Professor,Active
+12ITD017,Dr Gunupudi Rajesh Kumar,rajeshkumar_g@vnrvjiet.in,9848540851,Male,IT,Associate Professor,Active
+12ITD021,Dr Vangipuram Radhakrishna,radhakrishna_v@vnrvjiet.in,9700684242,Male,IT,Associate Professor,Active
+12MED014,Dr Gumma V L Prasad,prasad_gvl@vnrvjiet.in,9391362304,Male,AE,Assistant Professor,Active
+12MED056,Dr. Kolluri Aruna Prabha,arunaprabha_k@vnrvjiet.in,9848822563,Female,ME,Assistant Professor,Active
+12MED079,Dr. Motukuri Subrahmanya Sreenivasa Rao,srinivasarao_ms@vnrvjiet.in,9912371124,Male,ME,Assistant Professor,Active
+12MTP042,K Satyanarayana Raju,ksnraju@vnrvjiet.in,8106715775,Male,POLY,Corporate Relation Officer,Inactive
+12PED006,Bala krishna  Begari,aa@vnrvjiet.in,9491214632,Male,SPORTS,Other Satff,Active
+12PED067,Dr.Siva rama krishna prasad rao  Talasila,na@vnrvjiet.in,8790073719,Male,SPORTS,Other Satff,Inactive
+12PED086,Mallesh  Jajula,aa@vnrvjiet.in,7382060783,Male,SPORTS,Other Satff,Active
+12PHSS07,Suneetha  Kappaganti,ksuneetha_poly@vnrvjiet.in,9000523410,Female,HSS,Assistant Professor,Inactive
+12PHSS08,Sabbani Jyothi,s.jyothi_poly@vnevjiet.in,9640266384,Female,HSS,Assistant Professor,Inactive
+12PMED01,Pothula Narendra,narendra_p@vnrvjiet.in,9177202044,Male,ME,Assistant Professor,Active
+13ADM001,Raja sekhar  Neerudi,na@vnrvjiet.in,000,Male,ADM,Attender,Inactive
+13ADM003,Dr.Ayanmpudi Subba Rao,na@vnrvjiet.in,8886711154,Male,HSS,Director,Inactive
+13ADM010,Kolagani Srinivasa Rao,srinivas_stores@vnrvjiet.in,9666196616,Male,ADM,Executive Stores,Active
+13ADM011,Shekar  Kommu,k1994shekar@gmail.com,9701673836,Male,AE,Attender,Active
+13ADM012,Sunitha  Allada,na@vnrvjiet.in,9618051357,Female,ADM,Accountant,Active
+13ADM063,Gannavarapu Lakshmi,mlakshmi_ao@vnrvjiet.in,9989800555,Female,ADM,Jr.Accountant,Active
+13AMD041,Tappa Raju,raju_t@vnrvjiet.in,9885836658,Male,AE,Assistant Professor,Active
+13AME009,Thanikonda Praveen Kumar,praveenkumar_t@vnrvjiet.in,9290289001,Male,AE,Assistant Professor,Active
+13AME030,Ramu Ratlavath,ramu_r@vnrvjiet.in,9505657520,Male,AE,Assistant Professor,Active
+13CED050,Dr.Purnendu Narayan Singh,narayansingh_p@vnrvjiet.in,7013300766,Male,CE,Professor,Inactive
+13CED065,P Venkata Siva Gopi Raghunadh,gopiraghunadh_p@vnrvjiet.in,9885492675,Male,CE,Assistant Professor,Active
+13ECE018,Dr. Pinninti Kishore,kishore_p@vnrvjiet.in,9866940403,Male,ECE,Associate Professor,Active
+13ECE020,Dr. Somineni Rajendra Prasad,rajendraprasad_s@vnrvjiet.in,9949905788,Male,ECE,Professor,Active
+13ECE023,Karanam Sarath Chandra,sarathchandra_k@vnrvjiet.in,7416538641,Male,ECE,Assistant Professor,Inactive
+13ECE032,Dr. Kandala Kalyana Srinivas,kalyanasrinivas_k@vnrvjiet.in,9949729044,Male,ECE,Assistant Professor,Active
+13EEE042,Poornima  Seelam,poornima_s@vnrvjiet.in,9704566970,Female,EEE,Assistant Professor,Active
+13EEE043,Surya Gopala krishna Devarakonda,sgkrishna_d@vnrvjiet.in,9989365696,Male,EEE,Assistant Professor,Active
+13EIE005,Suma Bala Guttikonda,sumabala_eie@vnrvjiet.in,9248689097,Female,EIE,Sr. Skilled Asst.,Active
+13EIE031,Ranga sai  Komaragiri,rangasai_k@vnrvjiet.in,9491586721,Male,EIE,Assistant Professor,Inactive
+13EIE054,Dr Naregalkar Akshay Rangnath,akshay_n@vnrvjiet.in,9676954353,Male,EIE,Assistant Professor,Active
+13ITD016,Dr. Dasari Kalyani,kalyani_d@vnrvjiet.in,9989633188,Female,IT,Assistant Professor,Active
+13MED017,Dr Dangeti Sarath chandra,sarathchandra_d@vnrvjiet.in,9948340499,Male,ME,Assistant Professor,Active
+13PECE10,Sandila Baswarani,baswarani_ece@vnrvjiet.in,6301016442,Female,ECE,Sr. Skilled Asst.,Active
+13PED058,Punna reddy  Alla,aa@vnrvjiet.in,8143233376,Male,SPORTS,Other Satff,Inactive
+13PED059,Nasaraiah  KILARI,NARSIMHAKILARI@GMAIL.COM,9908338138,Male,SPORTS,Other Satff,Inactive
+13PEEE08,Kanaparthy Radhika,kradhika_eee@vnrvjiet.in,9553996555,Female,EEE,Sr. Skilled Asst.,Active
+13PEEE13,Kura Ranjeeth Kumar,kranjeeth_poly@vnrvjiet.in,9985626660,Male,EEE,Assistant Professor,Inactive
+13PHSS03,Davuluri Chinni Krishna Veni,dckrishnaveni_poly@vnrvjiet.in,9052979555,Female,HSS,Assistant Professor,Inactive
+13PHSS05,Garikipati Lakshmi,glakshmi_poly@vnrvjiet.in,8897649963,Female,HSS,Assistant Professor,Inactive
+13PMED09,Phani Srikanth K,srikanthkanuri66@gmail.com,9493262096,Male,POLY,Lecturer,Inactive
+13RCC061,Purushotham reddy  Kethi reddy,purushothamreddy_rcc@vnrvjiet.in,8096356175,Male,RCC,Other Satff,Inactive
+14ADM006,Bharani  Potu,Bharani_ao@vnrvjiet.in,09885540828,Female,POLY,Lecturer,Inactive
+14ADM031,V Ravi Prasad,raviprasadvallabhaneni67@gmail.com,8008995006,Male,ADM,Supervisor,Inactive
+14ADM032,V Vijayalakshmi,na@vnrvjiet.in,9441395636,Male,ADM,Supervisor,Active
+14ADM039,T Vijay Kumar,baluvijay7799@gmail.com,7799899119,Male,Engg Cell,Attender,Active
+14AED033,CH Vamshi Krishna,vamshikrishna_c@vnrvjiet.in,9989126302,Male,AE,Assistant Professor,Inactive
+14AME001,Dhanunjaya Raju Dhulipala,na@vnrvjiet.in,0000088888,Male,AE,Assistant Professor,Inactive
+14AME015,Dr. Shaik Amjad,amjad_s@vnrvjiet.in,9160900731,Male,AE,Professor & HOD,Active
+14CED024,Srinivasa Rao  Tanniru,srinivasarao_tanniru@vnrvjiet.in,8886554057,Male,CE,Assistant Professor,Active
+14CED029,Gurujepalli AV Sairam Sandeep Kumar,sandeepkumar_gavs@vnrvjiet.in,9177787797,Male,CE,Assistant Professor,Inactive
+14CED038,Chinthakindi Jeevender,chjeevender@gmail.com,9640866446,Male,CE,Attender,Active
+14CED040,Dr Tallam Naga Teja,teja_tn@vnrvjiet.in,7093379031,Male,CE,Assistant Professor,Active
+14CSE014,Dr Sandhya  N,sandhya_n@vnrvjiet.in,9849354789,Female,CS-AIMLIOT,Professor,Active
+14CSE020,Dr Yalamanchili Bhanu Sree,bhanusree_y@vnrvjiet.in,9849448635,Female,"DS,CS&AIDS",Assistant Professor,Inactive
+14ECE011,Donapati Ramesh Reddy,rameshreddy_d@vnrvjiet.in,9000666424,Male,ECE,Assistant Professor,Active
+14ECE012,Saikam Naga Leela,nagaleela_s@vnrvjiet.in,9989633055,Female,ECE,Assistant Professor,Active
+14ECE013,Komalla Balaji,kbalaji_ece@vnrvjiet.in,8121506076,Male,ECE,Instructor,Active
+14EEE037,Remala Geshma Kumari,geshmakumari_r@vnrvjiet.in,9959625215,Female,EEE,Assistant Professor,Active
+14EEE041,Dr. Jupalli Bhavani,bhavani_j@vnrvjiet.in,8008994383,Female,EEE,Associate Professor,Active
+14EIE032,Madhavi  Samineni,na@vnrvjiet.in,0000088888,,EIE,Computer Operator,Inactive
+14EIE036,Padavala Venkata Gopi Kumar,gopikumar_pv@vnrvjiet.in,9010041512,Male,EIE,Assistant Professor,Active
+14HSS005,Dr. Ganga Sireesha,sireesha_g@vnrvjiet.in,8096425694,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+14HSS014,Dr. Nuthanapati Aruna Kumari,arunakumari_n@vnrvjiet.in,9912229125,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+14MED021,Dr. Vaka Venkata Durga Sahithi,sahithi_vvd@vnrvjiet.in,9908866756,Female,ME,Assistant Professor,Active
+14MED023,Dr Nimmagadda Sri latha,srilatha_n@vnrvjiet.in,9494384578,Female,ME,Assistant Professor,Active
+14PCED06,Sreevalli  Komanduri,ksreevalli_poly@vnrvjiet.in,8886017875,Female,CE,Sr. Skilled Asst.,Inactive
+14PEEE08,Rajulapati Sudha,rsudha_poly@vnrvjiet.in,9849394228,Female,EEE,Assistant Professor,Inactive
+14PHSS05,Henge Harika,hharika_poly@vnrvjiet.in,8978047771,Female,HSS,Assistant Professor,Inactive
+14PMED007,Yasoda  Pampana,na@vnrvjiet.in,9032095806,Female,POLY,Lecturer,Inactive
+15ADM010,A RAMESH CHANDRA,purchaseofficer@vnrvjiet.in,9493393390,Male,ADM,Purchase Officer,Inactive
+15ADM046,Rama Krishna  Chintoju,ramakrishna_examcell@vnrvjiet.in,9030129199,Male,ADM,Executive Assistant,Active
+15ADM059,RAVI  CHARLAPALLI,chravi_ao@vnrvjiet.in,9550461001,Male,ADM,Executive Assistant,Inactive
+15ADM060,S Venkanna,na@vnrvjiet.in,9030145177,Male,ADM,Executive Assistant,Active
+15ADM088,Dr.Namala Venkata Narayana,00@adm.net,9440054797,Male,HSS,Assistant Professor,Inactive
+15AED008,Gorle Karthik,karthik_ame@vnrvjiet.in,7732013480,Male,AE,Sr. Skilled Asst.,Active
+15AED064,Mechineni Venkateshwar Rao,venkateshwarrao_m@vnrvjiet.in,9676821981,Male,AE,Assistant Professor,Inactive
+15AED085,Bhaskar Pavan Bharadwaja,pavanbharadwaja_b@vnrvjiet.in,9030280079,Male,AE,Assistant Professor,Inactive
+15CED051,Pupalwad Arti Sudam,artisudam_p@vnrvjiet.in,9390933247,Female,CE,Assistant Professor,Active
+15CED068,Dr Kanapuram Ravi Kumar,ravikumar_k@gmail.com,9600578984,Male,CE,Associate Professor,Active
+15CED069,Dr. Ravella Durga Prasad,durgaprasad_r@vnrvjiet.in,9444471194,Male,CE,Assistant Professor,Inactive
+15CED074,Kola Veerendra Gopi,veerendragopi_k@vnrvjiet.in,9494770610,Male,CE,Assistant Professor,Active
+15CED076,Sundar Sangeetha,sangeetha_s@vnrvjiet.in,9849575415,Female,CE,Assistant Professor,Active
+15CED081,Vanmala Swapna,vswapna_ce@vnrvjiet.in,9603261159,Female,CE,Sr. Skilled Asst.,Active
+15CSE020,Dr. Motupalli Ravi Kanth,ravikanth_m@vnrvjiet.in,9966556723,Male,CSE,Sr.Assistant Professor,Active
+15CSE022,Somavarapu Jahnavi,jahnavi_s@vnrvjiet.in,9000301016,Female,CSE,Assistant Professor,Active
+15CSE031,Neerukonda Lakshmi Kalyani,lakshmikalyani_n@vnrvjiet.in,9966319436,Female,CSE,Assistant Professor,Active
+15CSE032,Dr. Nallabelli Sandeep Chaitanya,sandeepchaitanya_n@vnrvjiet.in,9885432106,Male,"DS,CS&AIDS",Assistant Professor,Active
+15CSE048,Nyaramneni Sarika,sarika_n@vnrvjiet.in,9908630569,Female,CSE,Assistant Professor,Active
+15CSE084,Chekuri Sri Sumanth,srisumanth_cse@vnrvjiet.in,8143029899,Male,CSE,Assistant Professor,Inactive
+15CSE089,Illa Pavan Kumar,pavankumar_i@vnrvjiet.in,8886307052,Male,IT,Assistant Professor,Active
+15CSE091,Dr Potluri Tejaswi,tejaswi_p@vnrvjiet.in,9492272120,Female,CSE,Assistant Professor,Active
+15CSE093,Lingam Greeshma,greeshma_l@vnrvjiet.in,8143569296,Female,CSE,Assistant Professor,Inactive
+15CSE094,Dr. Pokuri Bharath Kumar Chowdary,bharathkumar_p@vnrvjiet.in,9505758154,Male,CSE,Assistant Professor,Active
+15CSE101,NARRA  SUBHASHINI,subhashini_n@vnrvjiet.in,9966774944,,CSE,Assistant Professor,Inactive
+15CSE105,Sambangi Swathi,swathi_s@vnrvjiet.in,9494612704,Female,IT,Assistant Professor,Active
+15CSE107,Vaddadi Phanishwara Hara Gopal,haragopal_vp@vnrvjiet.in,9441666995,Male,IT,Assistant Professor,Inactive
+15ECE003,Sripada Venkata Naga Narayana Rao,narayanarao_svn@vnrvjiet.in,9945399533,Male,ECE,Associate Professor,Inactive
+15ECE014,Valluru Dasaradha Ram Kumar,dasaradharamkumar_ece@vnrvjiet.in,9908773077,Male,ECE,Instructor,Active
+15ECE026,VIKAS  VINJAMOORI,vikas_v@vnrvjiet.in,9666634243,Male,ECE,Assistant Professor,Inactive
+15ECE034,Amanaganti Lavanya,lavanya_a@vnrvjiet.in,9963683572,Female,ECE,Assistant Professor,Inactive
+15ECE037,Patri Srinivasa Rao,srinivasarao_p@vnrvjiet.in,8500222772,Male,ECE,Assistant Professor,Inactive
+15ECE043,Dr. Haritha  Mittapally,haritha_m@vnrvjiet.in,6309439383,Female,ECE,Assistant Professor,Active
+15ECE047,Yajna Mallesh Chinta,yajna008@gmail.in,9618760709,Male,POLY,Lecturer,Inactive
+15ECE049,Konikineni Deepthi,deepthi_k@vnrvjiet.in,9849949965,Female,ECE,Assistant Professor,Active
+15ECE054,Dr Vumanthala Sagar Reddy,sagarreddy_v@vnrvjiet.in,9985722132,Male,ECE,Assistant Professor,Active
+15ECE067,Peddi Anudeep,anudeep_p@vnrvjiet.in,9052026888,Male,ECE,Assistant Professor,Inactive
+15EEE025,Srikanth Reddy Yiza,srikanthreddy_y@vnrvjiet.in,7680951597,Male,EEE,Assistant Professor,Inactive
+15EEE027,Bhukya Devulal,devulal_b@vnrvjiet.in,9032672362,Male,EEE,Assistant Professor,Active
+15EEE028,Dr Obula reddy Sobhana,sobhana_o@vnrvjiet.ac.in,9441169927,Female,EEE,Assistant Professor,Active
+15EEE038,Nalamalapu Amarnadh Reddy,amarnadhreddy_n@vnrvjiet.in,9492758432,Male,EEE,Assistant Professor,Active
+15EEE039,Dr. Kuntla Veeresham,veeresham_k@vnrvjiet.in,9603441666,Male,EEE,Associate Professor,Active
+15EEE040,Konakanchi Sravani,sravani_k@vnrvjiet.in,9032880555,Female,EEE,Assistant Professor,Active
+15EEE073,Veeranjaneyulu  Veligatla,veeranjaneyulu_eee@vnrvjiet.in,8500708524,Male,EEE,Assistant Professor,Inactive
+15EIE004,H RENUKA,renuka_h@vnrvjiet.in,8317545662,Female,EIE,Assistant Professor,Inactive
+15EIE042,Joshi Jyothirmai,jyothirmai_j@vnrvjiet.in,8008000266,Female,EIE,Assistant Professor,Active
+15EIE078,Pandu Naresh Kumar,nareshkumar_eie@vnrvjiet.in,9177080764,Male,EIE,Sr. Skilled Asst.,Active
+15EIE086,Maddi Venkata Rajiv Krishna,rajivkrishna_eie@vnrvjiet.in,9550014222,Male,EIE,Sr. Skilled Asst.,Inactive
+15ENG087,V Nageswara Rao,na@vnrvjiet.in,8885184247,Male,Engg Cell,Other Satff,Active
+15ENGG56,NAVA MOHAN RAO DASARI,na@vnrvjiet.in,9160219022,Male,HeadOffice,Purchase Officer,Inactive
+15HSS007,K RAJENDER KUMAR,rajenderkumar_k@vnrvjiet.in,9290592771,Male,HSS,Sr. Skilled Asst.,Inactive
+15HSS016,Dr. Kovelamudi Sharmila Rudramamba,rudramamba_ks@vnrvjiet.in,9963443999,Female,PHYSICS,Assistant Professor,Active
+15HSS036,Dr.PADMAVATHI  GUDDETI,padmavathi_g@vnrvjiet.in,9848271485,Male,HSS,Assistant Professor,Inactive
+15HSS095,Dr.Dendukuri Sudha Rani,sudharani_d@vnrvjiet.in,9849057294,Female,ENGLISH,Associate Professor,Active
+15ITD050,Dr Vemulapalli Saritha,saritha_v@vnrvjiet.in,7032819971,Female,IT,Assistant Professor,Active
+15ITD083,Tummala Nagarjuna,nagarjuna_it@vnrvjiet.in,9963422288,Male,IT,Junior Computer  Programmer,Active
+15ITD096,Mekala Susmitha,susmitha_m@vnrvjiet.in,9177096763,Female,IT,Assistant Professor,Active
+15LIB057,Madhava Rao Potla,Madhavarao_library@vnrvjiet.in,9247786908,Male,LIB,Assistant  Librarian,Inactive
+15MED001,Allada Naga Brahmeswara Rao,brahmeswararao_an@vnrvjiet.in,9866050296,Male,ME,Sr.Assistant Professor,Inactive
+15MED041,Dr. Gadde Raghu Babu,raghubabu_g@vnrvjiet.in,9866234649,Male,ME,Professor,Active
+15MED044,Dr. Kuruva Krishna Murthy,krishnamurthy_k@vnrvjiet.in,9618291620,Male,ME,Assistant Professor,Active
+15MED052,Chandraiah Alikattey,chandraiah_me@vnrvjiet.in,9666696015,Male,ME,Other Satff,Inactive
+15MED063,Prasad Kumar Putha,prasadkumar_p@vnrvjiet.in,9603798777,Male,ME,Assistant Professor,Active
+15MED075,Soppari Bhanu Murthy,bhanumurthy_s@vnrvjiet.in,7416757427,Male,ME,Assistant Professor,Active
+15MED090,Lanka Sandeep Raj,sandeepraj_l@vnrvjiet.in,9492954247,Male,ME,Assistant Professor,Active
+15PCED02,Karuna Abhinandana Jaykar Gutla,gkabhinandana_poly@vnrvjiet.in,9704554813,Female,POLY,Lecturer,Inactive
+15PED100,Gosala Suresh,na@vnrvjiet.in,8501891981,Male,SPORTS,Other Satff,Inactive
+15PHSS004,Pavani  Lingamsetti,na@vnrvjiet.in,9550293549,Male,HSS,Assistant Professor,Inactive
+16ADM004,UPPALA  VISHWA NARAYANA,na@vnrvjiet.in,9948693262,Male,ADM,Asst. Manager - Accounts,Inactive
+16ADM039,S SUDARSHAN SINGH,aa@vnrvjiet.in,9848083255,Male,ADM,HR Manager,Inactive
+16ADM056,Vadla Sreenu,na@vnrvjiet.in,7702539082,Male,ADM,Skilled Assistant,Active
+16ADM074,Vattikuti Naga Siddhartha Chowdary,na@vnrvjiet.in,9966737766,Male,T&P,Junior Computer  Programmer,Inactive
+16ADM078,Pavan Kumar Yadav,na@vnrvjiet.in,9032381593,Male,ADM,Driver,Inactive
+16ADM101,Nalla Narendar,aa@vnrvjiet.in,9010763868,Male,ADM,Office Assistant,Inactive
+16ADM129,Turaga Shailaja,tshailaja_admin@vnrvjiet.in,9866685845,Female,ADM,Sr Assistant,Inactive
+16AED027,Devunuri Suresh,suresh_d@vnrvjiet.in,9676541968,Male,AE,Assistant Professor,Active
+16AED116,Kannan Prashanth,prashanth_k@vnrvjiet.in,8500142132,Male,AE,Assistant Professor,Inactive
+16CED023,Batna Anantha Venkata  RAM KUMAR,ramkumar_bav@vnrvjiet.in,9849556438,Male,CE,Assistant Professor,Inactive
+16CED032,AMGOTH MATHRU SWAMY,mathruswamy_a@vnrvjiet.in,9160092552,Male,CE,Assistant Professor,Inactive
+16CED036,Vandanapu Ramya Krishna,ramyakrishna_v@vnrvjiet.in,08019565461,Female,CE,Assistant Professor,Active
+16CED046,Anuboyina Jyothirmai,jyothirmai_a@vnrvjiet.in,9505850852,Female,CE,Assistant Professor,Active
+16CED094,Kasturi Keerthi Priya,keerthipriya_k@vnrvjiet.in,8790909678,Female,CE,Assistant Professor,Inactive
+16CED096,Immadi Naga Babu,nagababu_i@vnrvjiet.in,9912140504,Male,CE,Assistant Professor,Inactive
+16CED097,Penki Ramu,ramu_p@vnrvjiet.in,9989987226,Male,CE,Assistant Professor,Inactive
+16CED107,Boya Manikanta Reddy,manikantareddy-b@vnrvjiet.in,9177700202,Male,CE,Assistant Professor,Inactive
+16CSE012,Peddarapu Ramakrishna Chowdary,ramakrishna_p@vnrvjiet.in,9966446863,Male,CSE,Assistant Professor,Active
+16CSE016,PRIYA  BHATNAGAR,priya_b@vnrvjiet.in,7331127311,Female,CSE,Assistant Professor,Inactive
+16CSE044,Louis Jai Vinita,jaivinita_l@vnrvjiet.in,8793788434,Female,CSE,Assistant Professor,Inactive
+16CSE045,Priyanka  Singh,priyankasingh@vnrvjiet.in,9966343560,Female,CSE,Assistant Professor,Inactive
+16CSE089,Dr Kunka Bheemalingappa,bheemalingappa_k@vnrvjiet.in,9949412264,Male,CSE,Assistant Professor,Active
+16CSE092,S Kranthi Kumar,kranthikumar_s@vnrvjiet.in,7093445677,Male,CSE,Assistant Professor,Inactive
+16CSE102,Lingineni Indira,indira_l@vnrvjiet.in,9295352540,Female,CSE,Assistant Professor,Active
+16CSE105,Dr. Puligundla Neelakantan,neelakantan_p@vnrvjiet.in,9885936918,Male,CSE,Professor,Active
+16CSE111,Dr.Mummalaneni Raja Sekhar,rajasekar_m@vnrvjiet.in,9849296429,Male,"DS,CS&AIDS",Professor,Active
+16CSE121,Dr. Kanakala Srinivas,srinivas_k@vnrvjiet.in,9966343560,Male,CSE,Assistant Professor,Active
+16CSE122,Challa Keerthana,ss@vnrvjiet.in,9618335615,Male,CSE,Assistant Professor,Inactive
+16CSE125,Dr.Parimalla Subhash,subhash_p@vnrvjiet.in,8897709955,Male,"DS,CS&AIDS",Associate Professor,Active
+16CSE133,Shetty Swapna,swapna_s@vnrvjiet.in,9908661414,Male,CSE,Assistant Professor,Inactive
+16CSE135,Dr. Kolli Kamakshaiah,kamakshaiah_k@gmail.com,8099903505,Male,CSE,Assistant Professor,Inactive
+16ECE022,Mitu V M,mitu_vm@vnrvjiet.in,9496111385,Female,ECE,Assistant Professor,Inactive
+16ECE029,Bham Bandar Shabarinath,shabarinath_bb@vnrvjiet.in,9704049840,Male,ECE,Assistant Professor,Active
+16ECE030,Dr. Chokkakula Ganesh,ganesh_ch@vnrvjiet.in,8897729452,Male,ECE,Assistant Professor,Active
+16ECE033,Kattekommula Swetha Reddy,swethareddy_k@vnrvjiet.in,9705031187,Female,ECE,Assistant Professor,Inactive
+16ECE058,Kandasamy Sangeetha,sangeetha_k@vnrvjiet.in,9487718509,Female,ECE,Assistant Professor,Active
+16ECE059,Kattekola Naresh,naresh_k@vnrvjiet.in,9703800500,Male,ECE,Assistant Professor,Inactive
+16ECE063,Dr Pradeep  Kumar,pradeepkumar@vnrvjiet.in,9458818780,Male,ECE,Assistant Professor,Active
+16ECE084,Dr. Dhatrika Santhosh Kumar,santhoshkumar_d@vnrvjiet.in,9985277402,Male,ECE,Assistant Professor,Active
+16ECE091,Deshoju Vemana Chary,vemanachary_d@vnrvjiet.in,9347279179,Male,ECE,Assistant Professor,Inactive
+16ECE093,Popuri Suresh Babu,sureshbabu_p@vnrvjiet.in,9885628692,Male,ECE,Assistant Professor,Active
+16ECE100,Gujjula Ramya,ramya_g@vnrvjiet.in,9059379142,Female,ECE,Assistant Professor,Active
+16ECE108,Dr.Subodh Srivastava,subodh_s@vnrvjiet.in,7565036892,Male,ECE,Assistant Professor,Inactive
+16ECE113,Dr. Santosh kumar Choudhary,santoshkumar_ch@vnrvjiet.in,9502712603,Male,ECE,Assistant Professor,Active
+16ECE114,Dr.Piratla Sri Hari,srihari_p@vnrvjiet.in,9000836630,Male,ECE,Professor,Inactive
+16ECE119,Dr Ramakuri Sravanth Kumar,sraanthkumar_r@vnrvjiet.in,8017978709,Male,ECE,Assistant Professor,Inactive
+16ECE120,Dr. Medikonda Chrestu Raju,raju_mc@vnrvjiet.in,9866645423,Male,ECE,Associate Professor,Inactive
+16ECE127,Dr. Senapati Ranjan Kumar,ranjan_ks@vnrvjiet.in,8985877023,Male,ECE,Professor,Active
+16ECE130,Dr. Chilukuri Raja Kumari,rajakumari_ch@vnrvjiet.in,8712222244,Female,ECE,Assistant Professor,Active
+16EEE003,Dr. Thudumaladinne Hari Priya,haripriya_t@vnrvjiet.in,8500225547,Female,EEE,Sr.Assistant Professor,Inactive
+16EEE020,MANALA  SHIVA TEJA,shivateja_m@vnrvjiet.in,8121844467,Male,EEE,Assistant Professor,Inactive
+16EEE026,R  Sireesha,sireesha_r@vnrvjiet.in,9703034788,Male,EEE,Assistant Professor,Inactive
+16EEE028,Iragattapu  Neelima,neelima_i@vnrvjiet.in,8317524780,Female,EEE,Assistant Professor,Active
+16EEE078,Pampary H Sham Rao,shamrao_eee@vnrvjiet.in,9247767823,Male,EEE,Sr. Skilled Asst.,Active
+16EEE083,Dr. Pasula Naresh,naresh_p@vnrvjiet.in,9702240358,Male,EEE,Assistant Professor,Inactive
+16EEE090,Boorugu Anjan,anjan_b@vnrvjiet.in,8019550575,Male,EEE,Assistant Professor,Inactive
+16EEE095,Chintala Sunil Chowdary,sunilchowdary_ch@vnrvjiet.in,9052164321,Male,EEE,Assistant Professor,Inactive
+16EEE115,Dr. Gadupudi Lakshminarayana,lakshminarayana_g@vnrvjiet.in,9441442566,Male,EEE,Assistant Professor,Active
+16EEE117,Dr. Battu Neelakanteshwar Rao,neelakanteshwarrao_b@vnrvjiet.in,8527901648,Male,EEE,Associate Professor,Active
+16EEE126,Dr. Rashmi Kapoor,rashmi_k@vnrvjiet.in,9393706406,Female,EEE,Assistant Professor,Active
+16EEE128,Dr. Jawalkar Viswanatha Rao,viswanatharao_j@vnrvjiet.in,9866681972,Male,EEE,Professor,Active
+16EEE131,Dr. Jalluri Srinivasa Rao,srinivasarao_j@vnrvjiet.in,9866849787,Male,EEE,Associate Professor,Active
+16EIE008,Dasari SriLaxmi,srilaxmi_d@vnrvjiet.in,8106024214,Female,EIE,Assistant Professor,Active
+16EIE035,Batchu Supraja,supraja_b@vnrvjiet.in,9949397455,,EIE,Assistant Professor,Inactive
+16EIE041,Doddapaneni Swetha,swetha_d@vnrvjiet.in,9398600829,Female,EIE,Assistant Professor,Active
+16EIE042,Paritala Sampurna Lakshmi,sampurnalakshmi_p@vnrvjiet.in,9618107112,Female,EIE,Assistant Professor,Active
+16EIE060,Salugu Bhargav,bhargav_s@vnrvjiet.in,9642836984,Male,EIE,Assistant Professor,Active
+16EIE099,MADHUSUDAN B KULKARNI,madhusudhan_b@vnrvjiet.in,9482601340,Male,EIE,Assistant Professor,Inactive
+16EIE112,Dr.Saju Subramanian,saju_s@vnrvjiet.in,9597594167,Male,EIE,Associate Professor,Inactive
+16EIE118,Dr. Malleti Sreedhar,sreedhar_m@vnrvjiet.in,8106630486,Male,EIE,Professor,Active
+16HOADM07,K S Sriram,00@00,9849003495,Male,HeadOffice,G M ( A & F),Active
+16HSS024,Dr. Linganaboina Srinivasa Rao,srinivasarao_l@vnrvjiet.in,9849803685,Male,PHYSICS,Sr.Assistant Professor,Active
+16HSS025,Dr. Adapa Regun Balavardhana Rao,balavardhanarao_ar@vnrvjiet.in,09491551054,Male,CHEMISTRY,Assistant Professor,Active
+16HSS038,Dr.V P N Srikanth Gorti,srikanth_gvpn@vnrvjiet.in,9849964558,Male,HSS,Assistant Professor,Inactive
+16HSS057,Saraswathi srinivasan,saraswathi_s@vnrvjiet.in,7032917601,Male,HSS,Assistant Professor,Inactive
+16HSS061,Dr Vadla Ganesh Kumar,ganeshkumar_v@vnrvjiet.in,9533621819,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+16HSS062,Dr Tummala Kusuma,kusuma_t@vnrvjiet.in,9441811190,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+16ITD010,Surapaneni  Renu Deepti,renudeepti_s@vnrvjiet.in,7702644311,Female,IT,Assistant Professor,Active
+16ITD021,Dr Bobba Srivani,srivani_b@vnrvjiet.in,9908639524,Female,IT,Assistant Professor,Active
+16ITD067,Potti Bharat Kumar,na@vnrvjiet.in,8099940483,Male,IT,Junior Computer  Programmer,Inactive
+16ITD077,Srikar K,srikargoud_it@vnrvjiet.in,9676848077,Male,IT,Junior Computer  Programmer,Inactive
+16ITD098,Vemulapalli Lavanya,lavanya_v@vnrvjiet.in,9966508069,Female,IT,Assistant Professor,Inactive
+16LIB066,Chalamgari Ravi Chandran Prasad,na@vnrvjiet.in,9849960456,Male,LIB,Library Assistant,Active
+16MED001,Dr. Kaviti Ajay Kumar,ajaykumar_k@vnrvjiet.in,9985362222,Male,ME,Associate Professor,Active
+16MED014,Dr Hazari Naresh,narseh_h@vnrvjiet.in,9032522755,Male,ME,Assistant Professor,Active
+16MED015,KONDRU  NAGENDRA BABU,nagendrababu_k@vnrvjiet.in,7799477106,Male,ME,Assistant Professor,Inactive
+16MED051,Sunkara Nagasrisaihari,saihari_sns@vnrvjiet.in,9989447955,Male,ME,Assistant Professor,Active
+16MED064,Dr Chilukuri Priyadarsini,priyadarsini_ch@vnrvjiet.in,9642056688,Female,ME,Assistant Professor,Active
+16MED065,Dr. Namala Kiran Kumar,kirankumar_n@vnrvjiet.in,9481523799,Male,ME,Associate Professor,Active
+16MED080,Vallabhapurapu Sita Ram Babu,sitarambabu_mevnrvjiet.in,9701934482,Male,ME,Sr. Skilled Asst.,Active
+16MED081,Sappa Srinivasa Rao,srinivasarao_me@vnrvjiet.in,6305224191,Male,ME,Sr. Skilled Asst.,Inactive
+16MED085,Taneeru Malyadri,malyadri_t@vnrvjiet.in,9700111214,Male,ME,Assistant Professor,Active
+16MED086,Sunkara Swetha,swetha_s@vnrvjiet.in,9044810099,Female,ME,Assistant Professor,Active
+16MED087,Dr. Konkala Balashowry,balashowry_k@vnrvjiet.in,9700308734,Male,ME,Professor,Active
+16MED103,Dr. Edupuganti Venkata Ramana,venkataramana_e@vnrvjiet.in,9949043183,Male,ME,Professor,Active
+16MED104,Dr. Valiveti Siva Ramakrishna,na@vnrvjiet.in,9848545307,Male,ME,Assistant Professor,Active
+16MED132,Gourav Tiwari,gourav_t@vnrvjiet.in,7987763671,Male,ME,Assistant Professor,Inactive
+16MEDP06,Pentakota Sai Siva Teja,sst997@gmail.com,9700304331,Male,POLY,Lecturer,Inactive
+16MTP040,Markapudi Victor Samuel,victor_tnp@vnrvjiet.in,9848181013,Male,T&P,Officer - Learning & Development,Active
+16PADM16,B Surya Teja,bsuryateja_poly@vnrvjiet.in,9603632232,Male,AE,Junior Computer  Programmer,Active
+16PCE003,V  MANOHAR,na@vnrvjiet.in,9618619810,Male,CE,Assistant Professor,Inactive
+16PCED13,Gaddam Kavya,na@vnrvjiet.in,9553791624,Female,POLY,Lecturer,Inactive
+16PECE05,Lekkala Ramya,lramya_poly@vnrvjiet.in,8790490499,Female,ECE,Assistant Professor,Inactive
+16PED075,Lenin  Kondragunta,leninkondragunta@gmail.com,9059548589,Male,SPORTS,Yoga Teacher,Inactive
+16PED076,P Swathi,p.swathi110@gmail.com,8374002432,Female,SPORTS,Other Satff,Inactive
+16PEEE08,Saranga Raghavendra,na@vnrvjiet.in,9949172031,Male,POLY,Lecturer,Inactive
+16PEEE09,Madala V Krishna Rao,madalavkrishnarao@gmail.com,9705328252,Male,POLY,Lecturer,Inactive
+16PEEE10,Kunta Srikanth,ksrikanth_poly@vnrvjiet.in,9493436926,Male,EEE,Assistant Professor,Inactive
+16PEEE11,Boga Om Prakash,na@vnrvjiet.in,8106713355,Male,POLY,Lecturer,Inactive
+16PHSS02,DATLA VIJAYA LAKSHMI,na@vnrvjiet.in,9440036686,Female,POLY,Lecturer,Inactive
+16PHSS03,VARANASI  RAM MOHAN,-,8977006321,Male,HSS,Assistant Professor,Inactive
+16PHSS15,Deevi Divya,divya_d@vnrvjiet.in,9063437465,Female,ENGLISH,Assistant Professor,Active
+16PHSS17,Nazma Sultana,na@vnrvjiet.in,9502870787,Male,POLY,Lecturer,Inactive
+16PHSS18,Punati Rajitha,rajitha_p@vnrvjiet.in,8919535964,Female,CHEMISTRY,Assistant Professor,Active
+16PME004,POKALA RUTHVIK NITIN,na@vnrvjiet.in,9490101230,Male,POLY,Lecturer,Inactive
+16RCC007,Jakka Venkata Anantha Bala Krishna,vabalakrishna_j@vnrvjiet.in,9553760794,Male,ECE,Assistant Professor,Active
+17ADM042,Amirisetti Ravi Chandra,ravichandra_paac@vnrvjiet.in,9849235053,Male,ADM,Jr. Assistant,Active
+17ADM044,VARDHINENI MANIDEEP CHOWDARY,manideep_paac@vnrvjiet.in,9949976486,Male,ADM,Junior Computer  Programmer,Inactive
+17ADM045,Endri Vishnu,aa@vnrvjiet.in,9550045987,Male,SPORTS,Attender,Inactive
+17ADM070,Elijah Jaya Raj T,na@vnrvjiet.in,7095944784,Male,ADM,Sr. Skilled Asst.,Inactive
+17ADM076,AARI KRANTI KUMAR,KRANTIKUMAR2468@GMAIL.COM,7780604481,Male,ADM,Jr. Assistant,Inactive
+17AED013,Mutyala Venkata Ramarao,venkataramarao_m@vnrvjiet.in,8148891998,Male,AE,Assistant Professor,Active
+17AED046,Mohamadaziz Athani,aziz_a@vnrvjiet.in,9738223976,Male,AE,Assistant Professor,Active
+17AED047,Manda Krishna,krishna_m@vnrvjiet.in,7569911756,Male,AE,Assistant Professor,Active
+17AED048,Rakesh Patil,rakesh_p@vnrvjiet.in,7019780476,Male,AE,Assistant Professor,Inactive
+17AED049,Jakkula Snothaswini,snothaswini_j@vnrvjiet.in,7207653430,Female,AE,Assistant Professor,Inactive
+17AED066,Musthaqueem Syed,na@vnrvjiet.in,8143677830,Male,AE,Sr. Skilled Asst.,Inactive
+17CED005,Chittineni Sumasree,sumasree_ch@vnrvjiet.in,7337283344,Male,CE,Assistant Professor,Inactive
+17CED007,Jinka Yadu Veera Shiva Bhushan,shivabhushan_jyv@vnrvjiet.in,7032238887,Male,CE,Assistant Professor,Active
+17CED027,Rayana Harika,harika_r@vnrvjiet.in,9550357852,Female,CE,Assistant Professor,Active
+17CED028,Dr Gurikini Lalitha,lalitha_g@vnrvjiet.in,8978520834,Female,CE,Assistant Professor,Active
+17CED029,DR. CH NAGESHWAR RAO,nageshwarrao_ch@vnrvjiet.in,9000525198,Male,CE,Professor,Inactive
+17CED031,GUDAPATI ANUJA,anuja_g@vnrvjiet.in,9491171352,Female,CE,Assistant Professor,Inactive
+17CED036,DAVALA MANJULA,manjula_d@vnrvjiet.in,8008143091,Male,CE,Assistant Professor,Inactive
+17CED065,Thota Bixapathi,bixapathi_civil@vnrvjiet.in,9963041016,Male,CE,Sr. Skilled Asst.,Active
+17CED073,E JEEVANA SMITHA,jeevanasmitha_e@vnrvjiet.in,8500531565,Female,CE,Assistant Professor,Inactive
+17CED075,P Sarika,sarika_p@vnrvjiet.in,9515045059,Male,CE,Assistant Professor,Active
+17CSE006,Dr. Annaluri Sreenivasa Rao,sreenivasarao_a@vnrvjiet.in,8790652268,Male,IT,Assistant Professor,Active
+17CSE012,Dr. Chalumuru Suresh,suresh_ch@vnrvjiet.in,9866441244,Male,CSE,Assistant Professor,Active
+17CSE014,Dr. Bandreddi Venkata Seshukumari,seshukumari_bv@vnrvjiet.in,9989308242,Female,IT,Associate Professor,Active
+17CSE017,Kriti Ohri,kriti_o@vnrvjiet.in,9000918233,Female,CSE,Assistant Professor,Active
+17CSE025,Dr. Kaneti Venkata Ramana,venkataramana_k@vnrvjiet.in,9440356874,Male,CSE,Assistant Professor,Active
+17CSE030,Dr.RAKHEE,rakhee@vnrvjiet.in,9963856589,Female,CSE,Assistant Professor,Inactive
+17CSE033,Dr. Deepak Sukheja,deepak_s@vnrvjiet.in,9589035259,Male,CSE,Associate Professor,Active
+17ECE035,Dr.PUSHPA GIRI,pushpa_g@vnrvjiet.in,9205847024,Female,ECE,Assistant Professor,Inactive
+17ECE037,Challagulla Kaushik,kaushik_c@vnrvjiet.in,9550135353,Male,ECE,Assistant Professor,Active
+17ECE063,Samineni Madhavi,smadhavi_ece@vnrvjiet.in,9177032411,Female,ECE,Junior Computer  Programmer,Active
+17EEE011,Dr.Vellala Madhusudhan,madhusudan_v@vnrvjiet.in,8008445611,Male,EEE,Professor,Inactive
+17EEE015,Dr. Ambati Giri Prasad,giriprasad_a@vnrvjiet.in,9949084722,Male,EEE,Assistant Professor,Active
+17EIE043,Balla Goutam,goutam_b@vnrvjiet.in,9959290465,Male,EIE,Assistant Professor,Inactive
+17EIE069,Dr. Kalapala Vidya Sagar,vidyasagar_k@vnrvjiet.in,9848960527,Male,EIE,Professor,Active
+17ENG055,Kopisetti  Rajesh,na@vnrvjiet.in,7658926722,Male,Engg Cell,Trainee Engineer,Inactive
+17ENG072,Prabhanja Chary,na@vnrvjiet.in,0000000,Male,Engg Cell,Site Engineer,Inactive
+17ENG078,Satyanarayana A,na@vnrvjiet.in,9885772696,Male,Engg Cell,Driver,Active
+17HSS003,Dr. Tella Lakshmi Viveka,lakshmiviveka_g@vnrvjiet.in,9030700787,Female,CHEMISTRY,Assistant Professor,Active
+17HSS016,Dr. Nakka Mamatha,mamatha_n@vnrvjiet.in,9573895336,Female,CHEMISTRY,Assistant Professor,Active
+17HSS021,Dr. Rachel Irdaya Raj,rachel_i@vnrvjiet.in,9985607194,Female,ENGLISH,Assistant Professor,Active
+17HSS022,Dr.Tadiboyina Anil Babu,-,9440684704,Male,HSS,Assistant Professor,Inactive
+17HSS024,Dr.Shuchi Tiwari,shuchi_t@vnrvjiet.in,8090687800,Female,CHEMISTRY,Assistant Professor,Active
+17HSS026,Satavalli Pratyusha,pratyusha_s@vnrvjiet.in,9966642306,Female,CHEMISTRY,Assistant Professor,Active
+17HSS071,Dr. Chinthakuntla Thirmal,thirmal_ch@vnrvjiet.in,9884796997,Male,PHYSICS,Assistant Professor,Active
+17ITD020,Raddicherla Vikram Raju,vikramraju_r@vnrvjiet.in,9100313222,Male,IT,Assistant Professor,Inactive
+17ITD038,NAGARAJU VASU SIVA PRANEETH VARMA,npraneeth_it@vnrvjiet.in,8500659003,Male,IT,Computer Operator,Inactive
+17ITD074,Samineni Murali Mohan,muralimohan_s@vnrvjiet.in,9440330219,Male,IT,Assistant Professor,Active
+17MED001,Middemeedi Bhargav,na@vnrvjiet.in,9502905559,Male,ME,Assistant Professor,Inactive
+17MED002,Challabotla Naveen Reddy,naveen_ch@vnrvjiet.in,9505434342,Male,ME,Assistant Professor,Active
+17MED060,Chintamaneni Rajeswari,rajeswari_ch@vnrvjiet.in,9491934508,Female,ME,Assistant Professor,Active
+17MED064,Dr. Bandaru Chennakesava Rao,chennakesavarao@vnrvjiet.in,9866141821,Male,ME,"Professor, Director for Advancement & Dean Admin",Active
+17MED067,Madhava Rao N,nmadhavarao_me@vnrvjiet.in,9027819999,Male,ME,Sr. Skilled Asst.,Inactive
+17MED080,Dr. BVR Ravi Kumar,rajaravikumar_bv@vnrvjiet.in,9398844013,Male,ME,Professor & HOD,Active
+17MTP059,G Ramakrishna Rao,grkrao@vnrvjiet.in,9550322750,Male,T&P,Corporate Relation Officer,Inactive
+17MTP068,H Vijaya Kumar,vijayakumar_h@vnrvjiet.in,9290611323,Male,T&P,Assistant Professor,Inactive
+17PED079,Bikshapathi T,na@vnrvjiet.in,9966554290,Male,SPORTS,Marker,Inactive
+17PHSS01,V NAGA LAKSHMI,na@vnrvjiet.in,9346880910,Male,POLY,Lecturer,Inactive
+18ADM018,Kasani Mahesh,na@vnrvjiet.in,8185047813,Male,ADM,Attender,Active
+18ADM019,VADLA MAHESHWAR,-,9550590695,Male,ADM,Driver,Inactive
+18ADM020,B NAGA LAKSHMI,nagalakshmib_ao@vnrvjiet.in,9652554737,Female,ADM,Other Satff,Inactive
+18ADM022,Kavuru Venu Gopal,kavurigopal@gmail.com,6301109435,Male,ADM,Hostel Warden,Inactive
+18ADM024,S Venkatesh,na@vnrvjiet.in,9908350024,Male,ADM,Driver,Active
+18ADM025,N Naveen Kumar,naveenkumarnagamallu@gmail.com,8555982417,Male,ADM,Asst. Manager - Accounts,Inactive
+18adm026,U SARAVANAN,usaravanan235@gmail.com,7298031696,Male,ADM,Other Satff,Inactive
+18ADM027,Kudumula Raju,hrmanager@vnrvjiet.in,9030199000,Male,MATHS&MANAGEMENT,HR Manager,Active
+18AED001,NAGARAJ A SHET,nagaraj_a@vnrvjet.in,9740171112,Male,AE,Assistant Professor,Inactive
+18AED002,Hadagali Balappa,balappa_bh@vnrvjiet.in,9975425948,Male,AE,Assistant Professor,Active
+18AED009,Dr Veerappan Rathinam,rathinam_v@vnrvjiet.in,6302011463,Male,AE,Assistant Professor,Active
+18AED030,M. Boopathi,boopathi_m@vnrvjiet.in,9688009510,Male,AE,Assistant Professor,Inactive
+18CED006,Dr. Siempu Rakesh,rakesh_s@vnrvjeit.in,9000452223,Male,CE,Assistant Professor,Active
+18CED010,Dr. C. Naveen Kumar,naveenkumar_c@vnrvjiet.in,7045134404,Male,CE,Associate Professor,Inactive
+18CED011,D Anil,na@vnrvjiet.in,7306388826,Male,CE,Skilled Assistant,Inactive
+18CED015,Dr. Kadali Srinivas,srinivas_kadali@vnrvjiet.in,8552934111,Male,CE,Associate Professor,Active
+18ECE008,Dr. M Priyanka,priyanka_m@vnrvjiet.in,8074609842,Male,ECE,Assistant Professor,Inactive
+18ECE017,Dr. Yangala Chalapathi Rao,chalapathirao_y@vnrvjiet.in,9491127967,Male,ECE,Associate Professor,Active
+18EEE021,Gaduputi Lavan Kumar,glavankumar_eee@vnrvjiet.in,7780558911,Male,EEE,Skilled Assistant,Active
+18EIE007,Dr. Boggula Rajasekhara Reddy,rajasekharareddy_b@vnrvjiet.in,8096600019,Male,EIE,Assistant Professor,Active
+18EIE012,Dr. Selvaraj Senthilkumar,senthilkumar_s@vnrvjiet.in,7094161556,Male,EIE,Assistant Professor,Active
+18ENG003,G NARSIMHA SAGAR,na@vnrvjiet.in,9849190217,Male,Engg Cell,Plumber,Inactive
+18ENG004,M Raghuveer,na@vnrvjiet.in,9032639523,Male,Engg Cell,Electrician,Active
+18ENG005,K Nageshwar Chary,na@vnrvjiet.in,9948289310,Male,Engg Cell,Other Satff,Active
+18ENG016,Damma Manikanta,manikanta.damma@gmail.com,9491971118,Male,Engg Cell,Trainee Engineer,Inactive
+18HOADM08,Chaga Manikanta,NA@gmil.com,7997526336,Male,HeadOffice,Driver,Inactive
+18HSS013,Dr. Ramini Srilatha,srilatha_r@vnrvjiet.in,8801538336,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+18HSS031,V.Prerana Simha,prerana1919simha@gmail.com,9059648153,Female,HSS,Other Satff,Inactive
+18ITD014,Kiran Deepthi Tata,deepukiran2000@gmail.com,8333843308,Male,IT,Junior Computer  Programmer,Inactive
+18MTP028,Neerukonda Karthika,nkarthika_mtp@vnrvjiet.in,9490807649,Female,ADM,Executive Assistant,Active
+18PED023,John Mohan Reddy,KUNDURUJOHNREDDY8@GMAIL.COM,7396934566,Male,SPORTS,Other Satff,Inactive
+18RCC029,Devineni Revathi,revathidevineni29@gmail.com,8142277169,Female,RCC,Junior Computer  Programmer,Inactive
+19ADM004,T.Jaya Karan,karansvsv@gmail.com,9246247917,Male,ADM,Purchase Officer,Inactive
+19ADM006,BHARANI KODE,Bharani.potu@gmail.com,9885540828,Male,ADM,Executive Assistant,Inactive
+19ADM0066,BHARANI KODE,Bharani.potu@gmail.com,9885540828,Male,ADM,Executive Assistant,Inactive
+19ADM017,Syed Nizamuddin,syednizam0786@gmail.com,7416483764,Male,ADM,AAO,Inactive
+19ADM020,R.Madhuri,madhuri.reddi93@gmail.com,9494778529,Female,ADM,Computer Operator,Inactive
+19ADM030,K.V.Ramesh Babu,kandimallab4@gmail.com,9703206472,Male,ADM,Manager,Inactive
+19ADM035,K.Narsamma,-,7330643796,Female,HeadOffice,Sweeper,Active
+19ADM043,Kakumani Ravanabrahma,ravanabrahma_admin@vnrvjiet.in,9705910703,Male,ADM,Computer Operator,Active
+19ADM046,Y. TULASI RAM PRASAD,ytrprasad@gmail.com,9848307333,Male,ADM,AAO,Inactive
+19ADM062,D Aruna,arunajangagmail.com,9966672339,Female,ADM,FOE,Active
+19AED001,S Balachandran,chandru.venkatshanmugam@gmail.com,8489631015,Male,AE,Assistant Professor,Inactive
+19AED044,Koyi Venkata Naga Brahmeswararao,nagakv70@gmail.com,8501897824,Male,AE,Skilled Assistant,Inactive
+19AED055,Ghatkeshwaram Pundarika,-,9885928566,Male,AE,Jr. Skilled Assistant,Active
+19AED063,T.S Krishna Kumar,krishnakumar_ts@vnrvjiet.in,8526805763,Male,AE,Assistant Professor,Active
+19CED012,Dr. Pradeep Kumar Sugumar,pradeepkumar_s@vnrvjiet.in,9843672986,Male,CE,Assistant Professor,Inactive
+19CED031,D.Varaprasad,varaprasad.dara92@gmail.com,9494251344,Male,CE,Assistant Professor,Inactive
+19CED032,Dr. Devavath  Harinder,harinder_d@vnrvjiet.in,8106857040,Male,CE,Assistant Professor,Active
+19CED035,G.Ranjith,Ranjith.g121@gmail.com,9160948474,Male,Engg Cell,Site Engineer,Inactive
+19CED036,WAIM AKSHAY RAVINDRA,akshaywaim@gmail.com,9819775987,Male,CE,Assistant Professor,Inactive
+19CED038,Rachakonda Pranavi,pranavi_r@vnrvjiet.in,8985957247,Female,CE,Assistant Professor,Inactive
+19CED039,Dr. Sravanam Sasanka Mouli,sasankamouli_s@vnrvjiet.in,9966218861,Male,CE,Assistant Professor,Inactive
+19CSE009,Siripurapu Nyemeesha,nyemeesha_s@vnrvjiet.in,9951598958,Female,CSE,Assistant Professor,Active
+19CSE021,Bodduluri Suneetha,bsuneetha_cse@vnrvjiet.in,7829973172,Female,CSE,Junior Computer  Programmer,Active
+19CSE041,Palakurthi Ramesh,pramesh_cse@vnrvjiet.in,9908569718,Male,CSE,Junior Computer  Programmer,Active
+19CSE047,VEMULA HARISH,vemula.harish31@gmail.com,9177456482,Male,CSE,Assistant Professor,Inactive
+19CSE049,N. SIVA PRIYA,nalliboina.sivapriya@gmail.com,9959621168,Male,CSE,JCP,Inactive
+19CSE052,A. MANUSHA REDDY,manushareddy.a@gmail.com,7672061176,Female,CSE,Assistant Professor,Inactive
+19CSE054,Putti Jyothi,jyothi_p@vnrvjiet.in,7013704625,Female,CSE,Assistant Professor,Active
+19CSE056,M. SANGEETHA,moligisangeetha@gmail.com,8367483927,Female,CSE,Assistant Professor,Inactive
+19ECE005,Santanu Kumar Dash,santanukumar_d@vnrvjiet.in,9938200722,Male,ECE,Assistant Professor,Inactive
+19EEE003,Budhi Venkatesh,venkateshb_eee@vnrvjiet.in,9948739897,Male,EEE,Skilled Assistant,Inactive
+19ENG002,G.Haridas,Haridas_g@vnrvjiet.in,9700845841,Male,Engg Cell,Generator Operator,Inactive
+19ENG011,Neppali Hari Krishna,harideepu146@gmail.com,8328239741,Male,Engg Cell,Other Satff,Inactive
+19ENG018,T.Siva naga Raja Datta,rajathumati12345@gmail.com,7731990017,Male,Engg Cell,Site Engineer,Inactive
+19ENG019,N.Mahesh Babu,Nallapatimaheshbabu127@gmail.com,8297822071,Male,Engg Cell,Site Engineer,Inactive
+19ENG026,B.Arjun,Bassiarjun19@gmail.com,9963117641,Male,Engg Cell,Site Engineer,Inactive
+19ENG045,P SRIKANTH,skanth7373@gmail.com,8978623662,Male,Engg Cell,Computer Operator,Inactive
+19HSS013,Dr. Naravula Suresh Kumar,sureshkumar_n@vnrvjiet.in,9573979051,Male,PHYSICS,Assistant Professor,Active
+19HSS014,Dr. Mallamgari Sumithra,sumithra_m@vnrvjiet.in,8008323366,Female,PHYSICS,Assistant Professor,Active
+19HSS025,Kalakoti Rajinikanth Reddy,krajinikanthreddy_hands@vnrvjiet.in,8688017317,Male,PHYSICS,Skilled Assistant,Active
+19HSS034,D.Venkateswar Rao,dvradams@gmail.com,9989158157,Male,HSS,Assistant Professor,Inactive
+19HSS037,K. PRUDHVI KUMAR,prudhvkmr@gmail.com,8919143552,Male,HSS,Assistant Professor,Inactive
+19HSS040,Khandavalli Ashok,ashok_k@vnrvjiet.in,6380378595,Male,ENGLISH,Assistant Professor,Active
+19ITD0028,Santos Kumar Baliarsingh,baliarsingh.santosh@gmail.com,8280005278,Male,IT,Assistant Professor,Inactive
+19ITD006,Dr Somula Rama Subba Reddy,ramasubbareddy_s@vnrvjiet.in,7013594626,Male,IT,Assistant Professor,Active
+19ITD007,Kshira Sagar Sahoo,kshirasagar12@gmail.com,9668138249,Male,IT,Assistant Professor,Inactive
+19ITD008,Dasari Madhavi,dasarimadhavi8@gmail.com,7095585533,Female,IT,Assistant Professor,Inactive
+19ITD010,Chittakula Rohini,rohini_ch@vnrvjiet.in,8919604878,Female,IT,Assistant Professor,Active
+19ITD015,T.Venkata Satya Vivek,tvsvivek1990@gmail.com,9014716848,Male,IT,Assistant Professor,Inactive
+19ITD022,Kothapalli Tejaswini,ktejaswini_it@vnrvjiet.in,8985936493,Female,IT,Junior Computer  Programmer,Inactive
+19ITD023,Paladugu Swathi,pswathi_it@vnrvjiet.in,6304513091,Female,IT,Junior Computer  Programmer,Active
+19ITD027,G.Rajendra Prasad Babu,rajendra.gadhala@gmail.com,9640187980,Male,IT,Junior Computer  Programmer,Inactive
+19ITD029,Dr.Alok Kumar Shukla,alokjestshukla@gmail.com,9406040026,Male,IT,Assistant Professor,Inactive
+19ITD042,Mohammed Umar Sharfuddin,mdumarsharfuddin_it@vnrvjiet.in,9177080651,Male,IT,JCP,Inactive
+19ITD050,Damineni Dakshayani Himabindu,dakshayanihimabindu_d@vnrvjiet.in,9052042111,Female,IT,Assistant Professor,Active
+19ITD051,Dr. Naladesi Sudhakar Yadav,sudhakaryadav_n@vnrvjiet.in,7396385708,Male,IT,Assistant Professor,Inactive
+19ITD053,Keesara Sravanthi,sravanthi_k@vnrvjiet.in,7893717171,Female,IT,Assistant Professor,Active
+19ITD057,Bandi Raswitha,raswitha_b@vnrvjiet.in,8886881345,Female,IT,Assistant Professor,Active
+19ITD058,Parvathala Balakesava Reddy,balakesavareddy_p@vnrvjiet.in,9700576250,Male,IT,Assistant Professor,Active
+19MED024,Gunduboll Bhaskar Rao,gbhaskarao@gmail.com,8016754287,Male,ME,Skilled Assistant,Inactive
+19MTP033,Ch.Vikranth,vikranth.rainbow@gmail.com,9885730333,Male,T&P,Manager,Inactive
+19PCE001,S.Keerthi,suddapalli.keerthi@gmail.com,9059747275,Female,POLY,Lecturer,Inactive
+19PCED02,K.Sai Yoshitha,yoshitha202reddy@gmail.com,7842126536,Female,POLY,Lecturer,Inactive
+19PCED03,M.Sandhya Rani,maturisandhyarani225@gmail.com,9908172652,Female,POLY,Lecturer,Inactive
+19PED048,M. MANOJ KUMAR,mekalamanoj1995@gmail.com,7675909345,Male,SPORTS,Computer Operator,Inactive
+19PED060,K. RAVI,kummariravi1405@gmail.com,7780593143,Male,SPORTS,Trainer,Inactive
+19PED061,C. MADHAN GOPAL NAIDU,madhangopal.pakala@gmail.com,7702399495,Male,SPORTS,Trainer,Inactive
+19PHSS04,K V SOWMYA SAI,sowmyavkatragadda@gmail.com,9491993619,Female,POLY,Lecturer,Inactive
+20ADM001,Chitturi Naresh,chnaresh_admin@vnrvjiet.in,9949239805,Male,HSS,Assistant Professor,Inactive
+20ADM055,B Chitti Babu,-,9100570646,Male,ADM,Other Satff,Inactive
+20ADM056,Y Venkateswara Rao,vryalavarthi.1970@gmail.com,9398290452,Male,ADM,Security,Active
+20AED006,Koduri Gowthami,kodurigouthami@gmail.com,7416832059,Female,AE,Assistant Professor,Inactive
+20CED012,Dr. Bhavirisetty Murali Krishna,muralikrishna_b@vnrvjiet.in,9885453618,Male,CE,Assistant Professor,Active
+20CHSS001,K SUSHMA REDDY,ennapallysushmareddy@gmail.com,9912051199,Female,HSS,Assistant Professor,Inactive
+20CHSS002,SUJATHA MANNAVA,sujatha.m2578@gmail.com,9866129259,Female,HSS,Assistant Professor,Inactive
+20CSE002,Channabasamma,channu.ar@gmail.com,7989968122,Female,CSE,Assistant Professor,Inactive
+20CSE004,CP Priyanka,priyankacp0610@gmail.com,6302953022,Female,CSE,Assistant Professor,Inactive
+20CSE008,Nayamtulla Khan,namath.mohd@gmail.com,9052140140,Male,CSE,Assistant Professor,Inactive
+20CSE009,K JAYA JONES,jayajones162@gmail.com,8790170675,Female,CSE,Assistant Professor,Inactive
+20CSE015,Konkepudi Bhagya Rekha,bhagyarekha_k@vnrvjiet.in,9949718949,Female,CSE,Assistant Professor,Active
+20CSE020,M Pratyusha,pratyusha_m@vnrvjiet.in,9705860175,Female,CSE,Assistant Professor,Inactive
+20CSE021,A ARUNA KUMARI,aruna2k4@gmail.com,9989502421,Female,CSE,Assistant Professor,Inactive
+20CSE025,Shaik Abdul Hameed,abdulhameed_sk@vnrvjiet.in,8008493347,Male,CSE,Assistant Professor,Active
+20CSE026,Pabba Prasanna,prasanna_p@vnrvjiet.in,8341073043,Female,CSE,Assistant Professor,Active
+20CSE032,Kodali Haripriya,haripriya_k@vnrvjiet.in,9985807366,Female,CSE,Assistant Professor,Active
+20CSE033,Gopisetti Laxmi Deepthi,laxmideepthi_g@vnrvjiet.in,9032577918,Female,CSE,Assistant Professor,Active
+20ECE014,C Srihari,srihari.chidri@gmail.com,9703281860,Male,ECE,Assistant Professor,Inactive
+20ECE024,Veeramachaneni Alekhya,alekhya_v@vnrvjiet.in,9966643877,Female,ECE,Assistant Professor,Active
+20ECE028,Yatagiri Manasa,manasa_y@vnrvjiet.in,9966284988,Female,ECE,Assistant Professor,Active
+20ECE029,Kathroj Manasa,manasa_k@vnrvjiet.in,8186990646,Female,ECE,Assistant Professor,Inactive
+20ENG057,K. NAGA TEJA,teja.kancharla99@gmail.com,9849696445,Male,Engg Cell,Site Engineer,Inactive
+20ENG058,P. MURALI MOHAN,-,7013141419,Male,Engg Cell,Supervisor,Inactive
+20HSS011,Dr. Guduru Suresh,suresh_g@vnrvjiet.in,9444603942,Male,PHYSICS,Assistant Professor,Active
+20HSS016,Dr. O Sankar,sendit2sankar@gmail.com,9652095158,Male,HSS,Assistant Professor,Inactive
+20HSS023,Dr. Neelamraju Venkata Suresh Kumar,sureshkumar_nv@vnrvjiet.in,9848985146,Male,PHYSICS,Assistant Professor,Active
+20ITD003,Vangipuram Sravan Kiran,sravankiran_v@vnrvjiet.in,8919935694,Male,IT,Assistant Professor,Active
+20ITD010,Anand Kumar Sharma,anandkumar_s@vnrvjiet.in,9959907511,Male,IT,Assistant Professor,Active
+20ITD017,Dr. Kolli Srinivas,srinivas_kolli@vnrvjiet.in,9949928399,Male,IT,Assistant Professor,Inactive
+20itd018,Baisani Indraja,indraja_b@vnrvjiet.in,7397461579,Female,IT,Assistant Professor,Inactive
+20ITD019,Arya Somayajula Sri Vishnu Vandana,vandana_asv@vnrvjiet.in,9676491335,Female,IT,Assistant Professor,Inactive
+20ITD022,Y RAJA RAJESHWARI,raji12967@gmail.com,8008048582,Female,IT,Assistant Professor,Inactive
+20ITD027,Kotte Anusha,anusha_k@vnrvjiet.in,8099957089,Female,IT,Assistant Professor,Inactive
+20ITD030,Palesetti Pushpa Priyanka,pushpapriyanka_p@vnrvjiet.in,8885214472,Female,IT,Assistant Professor,Inactive
+20ITD031,D RAVIRAJU,ravirajudubba@outlook.com,9885748428,Male,IT,Assistant Professor,Inactive
+20ITD050,J SIREESHA,sireeshjasti@gmail.com,9490745272,Female,IT,Assistant Professor,Inactive
+20PCED01,D DONESHWARI,donudoneshwari97@gmail.com,8247749760,Female,POLY,Lecturer,Inactive
+20PECE01,Katta Mounika,kmounika_ece@vnrvjiet.in,9866440074,Female,ECE,Sr. Skilled Asst.,Active
+20PECE02,ADIMULAM PADMAVATHI,padmavathi.rs@gmail.com,8861491468,Female,POLY,Lecturer,Inactive
+20PECE03,P LAKSHMI PRASANNA,,8341795040,Female,POLY,Lecturer,Inactive
+20PEEE01,Ponduri Sowjanya,psowjanya_poly@vnrvjiet.in,7680972115,Female,POLY,Lecturer,Inactive
+20PEEE02,Gorla Anjali Devi,ganjalidevi_poly@vnrvjiet.in,7036065290,Female,POLY,Lecturer,Inactive
+20PEEE03,Bavupally Madhuri,bmadhuri_poly@vnrvjiet.in,9390863094,Female,EEE,Assistant Professor,Inactive
+20PMED001,CH SRAVANTHI,chidurala.sravanthi27@gmail.com,8790190936,Female,POLY,Lecturer,Inactive
+20PMED02,Nagineni Aparna,naparna_me@vnrvjiet.in,8884829992,Female,ME,Sr. Skilled Asst.,Inactive
+21ADM043,Atluri Sumanth Kumar,atluriskc@gmail.com,9849536062,Male,ADM,Purchase Manager,Inactive
+21ADM056,Paladugu Vijaya Bhaskar Rao,paladugubhaskar0107@gmail.com,9848085869,Male,ADM,Superintendent,Inactive
+21CED006,Dr. K  AMARTEJA,kocherlaamarteja@gmail.com,9963757559,Male,CE,Assistant Professor,Inactive
+21CED007,VVN Lakshmi Sowmya,sowmya_vvln@vnrvjiet.in,9703470374,Female,CE,Assistant Professor,Inactive
+21CED054,Dr Kurre Sai Sahitya,saisahitya_k@vnrvjiet.in,7995944925,Female,CE,Assistant Professor,Active
+21CHSS001,NO Name,sikhaeflu@gmail.com,7008656484,Female,HSS,Assistant Professor,Inactive
+21CSE011,C R Chaitra,chaitra13nov@gmail.com,7674002288,Female,CSE,Assistant Professor,Inactive
+21CSE012,Kulothungan Nartkannai,nartkannai_k@vnrvjiet.in,9884459358,Female,CSE,Assistant Professor,Inactive
+21CSE018,Avadhani Bindu,binduavadhani302@gmail.com,9100730898,Female,CSE,Assistant Professor,Inactive
+21CSE025,Dr. Awari Harshavardhan,harshavardhan_a@vnrvjiet.in,9247282623,Male,CS-AIMLIOT,Sr.Assistant Professor,Active
+21CSE026,Moksud Alam Mallik,alammallik_m@vnrvjiet.in,9035962770,Male,CS-AIMLIOT,Assistant Professor,Inactive
+21CSE027,Sayeedakhanum Pathan,sayeedakhanum_p@vnrvjiet.in,9908946674,Female,CS-AIMLIOT,Assistant Professor,Active
+21CSE028,Bhoompally Venkatesh,venkatesh_b@vnrvjiet.in,9494035354,Male,CS-AIMLIOT,Assistant Professor,Active
+21CSE031,Sadula Sudeshna,sudeshna_s@vnrvjiet.in,9849965320,Female,CSE,Assistant Professor,Active
+21CSE035,Pinapati Sudheer Benarji,sudheerbenarji_p@vnrvjiet.in,9866062644,Male,CSE,Assistant Professor,Active
+21CSE039,Dasari Renuka,renukadasari14@gmail.com,8500849662,Female,"DS,CS&AIDS",Assistant Professor,Inactive
+21CSE042,Dr. Gudeme Jaya Rao,jaysonjoel007007@gmail.com,8330976052,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+21CSE044,Dr. S Kaushik,drkaushiksekaran@gmail.com,8015628957,Male,"DS,CS&AIDS",Sr.Assistant Professor,Inactive
+21CSE045,Veeramreddy Surya Narayana Reddy,suryanarayanareddy_v@vnrvjiet.in,9966369898,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+21CSE055,Dr Javangula Vamsinath,vamsinath_j@vnrvjiet.in,9440045969,Male,CSE,Assistant Professor,Inactive
+21ECE016,K Rama Mohan Reddy,kallam.rama@gmail.com,9640304005,Male,ECE,Assistant Professor,Inactive
+21ECE023,Rayala Ravi Kumar,ravikumar_r@vnrvjiet.in,8008014399,Male,ECE,Assistant Professor,Active
+21ENG001,Vunnam Bapanaiah,vunnam_b@yahoo.com,9963018002,Male,Engg Cell,Sr.Project Manager,Inactive
+21ENG002,Kondeti Madhava Rao,kondetimadhvarao@gmail.com,9505058428,Male,Engg Cell,Electrician,Active
+21ENG003,Kammari Ramesh Chary,,9701163427,Male,Engg Cell,Plumber,Inactive
+21ENG047,Gurrala Vasu Prakash,vasuprakashgurrala@gmail.com,9505901112,Male,Engg Cell,Site Supervisor,Active
+21HSS004,Sikha Nayak,sikha_n@vnrvjiet.in,7008656484,Female,HSS,Assistant Professor,Inactive
+21HSS005,Munukoti Sobha,shobha_m@vnrvjiet.in,8374482730,Female,ENGLISH,Assistant Professor,Inactive
+21HSS008,Dr Galla Venkateswara Rao,venkateswararao_g@vnrvjiet.in,7815926352,Male,PHYSICS,Assistant Professor,Active
+21HSS010,Dr. Ganji Nirmala,nirmala_ganji11@yahoo.co.in,9398993075,Female,CHEMISTRY,Assistant Professor,Active
+21HSS013,Dr. Boora Srinivas,srinivas_b@vnrvjiet.in,9948303303,Male,PHYSICS,Assistant Professor,Active
+21HSS014,Dr. Dasari Venkata Sai,venkatasai_d@vnrvjiet.in,8106134348,Female,PHYSICS,Assistant Professor,Active
+21HSS015,Dr. Seethiraju Dasaradha Ramarao,dasaradharamarao_s@vnrvjiet.in,9880672045,Male,HSS,Assistant Professor,Inactive
+21HSS017,Dr. Lakkasamudram Chandana,chandana_l@vnrvjiet.in,9440092023,Female,HSS,Assistant Professor,Inactive
+21HSS024,Dr. TV Surendra,surendra9390@gmail.com,8754303559,Male,HSS,Assistant Professor,Inactive
+21HSS030,Dr. Sapala Appa Rao,apparao_s@vnrvjiet.in,9560822217,Male,CHEMISTRY,Assistant Professor,Active
+21HSS032,Dr. Veerapaneni Sree Ramani,ramaniv80@gmail.com,9063345670,Male,HSS,Assistant Professor,Inactive
+21HSS034,Kandiraju Venkata Laxmi Narasimha Pavan Kumar,pavankvln@gmail.com,9177095175,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+21HSS036,Dr. Enagandula Prasad,prasad_e@vnrvjiet.in,9908150216,Male,HSS,Assistant Professor,Inactive
+21HSS037,Dr Pemmaraju Raja Shekhar,rajashekhar_p@vnrvjiet.in,9985354264,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+21HSS038,Dr. Kotha Anil Kumar,anilkumar_k@vnrvjiet.in,9951326479,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+21HSS053,Dr. Khamar Jahan Sk,khamarjahan_sk@vnrvjiet.in,9581379191,Female,ENGLISH,Assistant Professor,Active
+21HSS057,Dr. M Srujana Kumar,Medukonduru.srujana88@gmail.com,9490558828,Female,HSS,Student Counselor,Inactive
+21ITD009,T NISHITHA,tnishitha1217@gmail.com,9908235620,Female,IT,Assistant Professor,Inactive
+21ITD033,Naalla Rashmitha,rashmitha_n@vnrvjiet.in,7993846645,Female,IT,Assistant Professor,Inactive
+21ITD040,Pallati Narsimhulu,narsimhulu_p@vnrvjiet.in,9866777555,Male,IT,Assistant Professor,Inactive
+21ITD041,Challa Kamala,kamala_ch@vnrvjiet.in,9652192968,Female,IT,Assistant Professor,Active
+21MTP046,Dr. KVM Achuta Ramaiah,achut.kala@gmail.com,9348030896,Male,T&P,Soft Skills Trainer,Inactive
+21MTP048,Guvvala Ashok Kumar Reddy,ashokkumarreddy_mtp@vnrvjiet.in,9676694777,Male,T&P,Training & Placement,Inactive
+21MTP049,Vidyadhar Raghavan,viddu316@gmail.com,9959907131,Male,T&P,Training & Placement,Active
+21PED019,C Madhan Gopal Naidu,madhangopal.pakala@gmail.com,7993459559,Male,SPORTS,Gym Trainer,Inactive
+21PED020,Gosala Suresh,suresh01cn36@gmail.com,8501891981,Male,SPORTS,Trainer,Active
+21PED021,Vasantha Balaji,balajivasantha1@gmail.com,6305669818,Male,SPORTS,Trainer,Inactive
+21PED022,Kummari Ravi,kummariravi140@gmail.com,8886942376,Male,SPORTS,Trainer,Inactive
+21PED051,Dr. M Polaiah Naidu,m.polaiahnaidu@gmail.com,9676520177,Male,SPORTS,Medical Officer,Inactive
+22ADM037,Duggineni Venkatarao,-,9951812312,Male,ADM,Residential Supervisior,Active
+22ADM038,Duggineni Jyothi,-,9052637441,Female,ADM,Residential Supervisior,Active
+22ADM067,Vemulamada Yasasvi,vyasasvi_ao@vnrvjiet.in,7661855066,Female,ADM,Accountant,Inactive
+22ADM071,Kovelamudi Mohini Lakshmi,mohinilakshmi_admin@vnrvjiet.in,9391399664,Female,ADM,Jr. Assistant,Active
+22ADM072,Sitamraju Venkata Ramana,purchaseofficer@vnrvjiet.in,9246308585,Male,ADM,Purchase Manager,Active
+22ADM079,Tungala Aswani,aswani_adm@vnrvjiet.in,9618937110,Female,ADM,Jr. Assistant,Inactive
+22ADM080,Badduri Sarala,-,9553575620,Female,ADM,Computer Operator,Inactive
+22ADM093,Mamthri Savitha Devi,savithadevi_adm@vnrvjiet.in,9346770387,Female,MATHS&MANAGEMENT,Executive Assistant,Active
+22ADM112,Redrouthu Bhanuchandar,-,9177915498,Male,ADM,Driver,Inactive
+22ADM139,Kondapaneni Thejasree,-,9441705316,Female,ADM,JCP,Active
+22ADM141,Moturi Srinivas,deputyregistrar@vnrvjiet.in,9848117172,Male,ADM,Joint Registrar,Active
+22ADM148,Sahoo Shubhashree,shubhashree_adm@vnrvjiet.in,9437432826,Female,HSS,JCP,Inactive
+22ADM149,Parimi Durga,durga_adm@vnrvjiet.in,9014347779,Female,ADM,Computer Operator,Active
+22ADM156,Sattu Rohith,rohithkumar_admin@vnrvjiet.in,7075220547,Male,ADM,Jr. Assistant,Inactive
+22AED085,Banad Basavaraj Chandrashekhar,chandrashekhar_b@vnrvjiet.in,9591398997,Male,AE,Assistant Professor,Active
+22AED089,Vinay Kulkarni,vinay_k@vnrvjiet.in,9449728736,Male,AE,Assistant Professor,Active
+22AED127,Dr Bachina Harish Babu,harishbabu_b@vnrvjiet.in,8008366664,Male,AE,Assistant Professor,Active
+22CED044,Ganjikunta Sambasiva Rao,-,9390475685,Male,CE,Assistant Professor,Active
+22CED097,Kothapalli Ravindra Babu,ravindrababu_k@vnrvjiet.in,9381442621,Male,CE,Assistant Professor,Inactive
+22CED125,Panugalla Rama Rao,ramarao_p@vnrvjiet.in,9542240112,Male,CE,Assistant Professor,Active
+22CED129,Sadula Vedhasri,-,7097067672,Female,CE,Assistant Professor,Inactive
+22CED137,Jonnalagadda Soujanya,soujanya_j@vnrvjiet.in,8096485653,Female,CE,Assistant Professor,Active
+22CED155,Birru Naveen,naveen_ce@vnrvjiet.in,8919484068,Male,CE,Jr. Assistant,Inactive
+22CSE002,Nagelli Naga raju,nnagaraju_cse@vnrvjiet.in,9966862015,Male,CE,Computer Operator,Active
+22CSE003,Vajja Mamatha,vmamatha_cse@vnrvjiet.in,8121318417,Female,CS-AIMLIOT,Computer Operator,Inactive
+22CSE006,Palabindela Swetha,pswetha_cse@vnrvjiet.in,9441771290,Female,CS-AIMLIOT,Junior Computer  Programmer,Inactive
+22CSE011,Aragala Udaya Lakshmi,audayalakshmi_cse@vnrvjiet.in,7989784966,Female,"DS,CS&AIDS",Junior Computer  Programmer,Inactive
+22CSE015,Ponugoti Praveen,ppraveen_cse@vnrvjiet.in,8801554863,Male,CSE,Computer Operator,Active
+22CSE017,Vankamamidi Lakshmi Kartheek,lakshmikartheek_v@vnrvjiet.in,8985720747,Male,CSE,Assistant Professor,Inactive
+22cse018,Parvathaneni Naga Srinivasu,nagasrinivasu_p@vnrvjiet.in,9000595535,Male,CS-AIMLIOT,Sr.Assistant Professor,Inactive
+22CSE019,Pululla Eswar Kiran,peswarkiran_ds@vnrvjiet.in,9182275608,Male,"DS,CS&AIDS",Computer Operator,Active
+22CSE020,Putta Lalitha Kumari,plalithakumari_cse@vnrvjiet.in,9177508696,Female,CSE,Junior Computer  Programmer,Active
+22CSE021,Alladi Shobha,ashobha_cse@vnrvjiet.in,9398675067,Female,"DS,CS&AIDS",Computer Operator,Active
+22CSE024,Kanala Sai Madhuri,saimadhuri_k@vnrvjiet.in,8106914947,Female,CSE,Assistant Professor,Inactive
+22CSE028,Dr. Vempaty Prashanthi,prashanthi_v@vnrvjiet.in,9966423914,Female,"DS,CS&AIDS",Sr.Assistant Professor,Inactive
+22CSE029,Indurthi Ravindra Kumar,ravindrakumar_i@vnrvjiet.in,9010090209,Male,CSE,Assistant Professor,Active
+22CSE030,Dr Thakkalapally Preethi,preethi_t@vnrvjiet.in,7893543695,Female,"DS,CS&AIDS",Assistant Professor,Active
+22CSE031,Pagadala Veeranjaneyulu,-,9391591999,Male,"DS,CS&AIDS",Assistant Professor,Active
+22CSE033,Nibhanupudi Sai Srithaja,-,9963514863,Female,CSE,Assistant Professor,Inactive
+22CSE034,Pothineni Nethrasri,-,9515728189,Female,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE035,Bonagani Prathusha,prathusha_b@vnrvjiet.in,8125842507,Female,CSE,Assistant Professor,Inactive
+22CSE041,Karlapudi Naga Manasa,nagamanasa_k@vnrvjiet.in,8555066608,Female,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE046,Gaddam Ankitraj,-,8639422113,Male,CSE,Assistant Professor,Inactive
+22CSE047,Shetkar Ambika,ambika_s@vnrvjiet.in,7396121488,Female,"DS,CS&AIDS",Assistant Professor,Inactive
+22CSE050,Kancharagunta Kishan Babu,kishanbabu_k@vnrvjiet.in,7036358239,Male,CS-AIMLIOT,Assistant Professor,Active
+22CSE052,Jillalamodi Manasa,jmanasa_cse@vnrvjiet.in,9032328193,Female,CSE,Junior Computer  Programmer,Inactive
+22CSE055,Dr Nalajala Sunanda,sunanda_n@vnrvjiet.in,9494232867,Female,"DS,CS&AIDS",Assistant Professor,Active
+22CSE057,Devulapalli Sudheer,sudheer_d@vnrvjiet.in,9966427152,Male,CSE,Assistant Professor,Inactive
+22CSE061,Kakulla Kotaiah Swamy,-,9392335400,Male,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE062,Dr. Guggulothu Thirupathi,-,9849577262,Male,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE068,Madanu Thambi Joseph,-,9908995489,Male,CSE,Junior Computer  Programmer,Inactive
+22CSE100,Pichiyan Vijayaragavan,vijayaragavan_p@vnrvjiet.in,9597746085,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+22cse103,Bethu Srikanth,-,9989707702,Male,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE106,Gajjala Dhruva Manasa,dhruvamanasa_g@vnrvjiet.in,9491171447,Female,CSE,Assistant Professor,Active
+22CSE108,Mannepalli Durga Prasad,durgaprasad_m@vnrvjiet.in,9010108845,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+22CSE115,Butti Gouthami,-,9515179394,Female,CSE,Assistant Professor,Active
+22CSE116,Mara Pooja,-,9177027792,Female,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE119,Erupaji Lalitha,lalitha_e@vnrvjiet.in,9014355042,Female,"DS,CS&AIDS",Assistant Professor,Active
+22CSE120,Sitanath Biswas,sitanath_b@vnrvjiet.in,9437101721,Male,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE121,Deka Bhupesh,bhupesh_d@vnrvjiet.in,7978458015,Male,CS-AIMLIOT,Assistant Professor,Active
+22CSE122,Manmath Nath Das,manmathnath@vnrvjiet.in,7008023769,Male,"DS,CS&AIDS",Assistant Professor,Active
+22CSE123,Balannolla Sneha,sneha_b@vnrvjiet.in,8790021789,Female,CSE,Assistant Professor,Inactive
+22CSE124,Jyotsnarani Tripathy,jyotsnarani_t@vnrvjiet.in,8275667899,Female,CS-AIMLIOT,Assistant Professor,Active
+22CSE133,Gullapalli Sathar,sathar_g@vnrvjiet.in,9000451770,Male,"DS,CS&AIDS",Assistant Professor,Active
+22CSE138,Gali Ashalatha,ashalatha_g@vnrvjiet.in,9866228429,Female,"DS,CS&AIDS",Assistant Professor,Active
+22CSE143,Manchikatla Srikanth,srikanth_m@vnrvjiet.in,9849439438,Male,CSE,Assistant Professor,Active
+22CSE145,Medaka Pavana Naga Venkata Syamala Rao,-,9989798350,Male,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE150,Chilamkurthi Vijayakumar,vijayakumar_ch@vnrvjiet.in,6305342384,Male,CS-AIMLIOT,Assistant Professor,Active
+22CSE151,Preety Singh,preety_s@vnrvjiet.in,9397164334,Female,CS-AIMLIOT,Assistant Professor,Active
+22CSE152,Ratakonda Bhavani,bhavani_r@vnrvjiet.in,7013487242,Female,CSE,Assistant Professor,Inactive
+22CSE153,Dr. Pimpalshende Nitin Anjusha,anjusha_p@vnrvjiet.in,8605773935,Female,CSE,Sr.Assistant Professor,Active
+22CSE159,Sure Mamatha,mamatha_s@vnrvjiet.in,6304062752,Female,CS-AIMLIOT,Assistant Professor,Inactive
+22CSE160,Korukonda Naga Durga,nagadurgasaile_k@vnrvjiet.in,6300266141,Female,CS-AIMLIOT,Assistant Professor,Active
+22CSE163,Karnam Akhil,akhil_k@vnrvjiet.in,9701876271,Male,CSE,Assistant Professor,Active
+22CSE164,Sampath Alankritha,alankritha_s@vnrvjiet.in,9490568285,Female,CSE,Assistant Professor,Active
+22CSE165,Dhulipalla Ramya Krishna,ramyakrishna_d@vnrvjiet.in,8019122558,Female,"DS,CS&AIDS",Assistant Professor,Active
+22CSE166,Dr. Yadala Sucharitha,sucharitha_y@vnrvjiet.in,8121846399,Female,"DS,CS&AIDS",Assistant Professor,Active
+22CSE167,Issac Neha Margret,nehamargret_i@vnrvjiet.in,7032612523,Female,"DS,CS&AIDS",Assistant Professor,Active
+22CSE168,Nuthalapati Sudha,sudha_n@vnrvjiet.in,7981409715,Female,"DS,CS&AIDS",Assistant Professor,Inactive
+22CSE169,Dr. Thotakura Venkata Sai Krishna,-,9963744208,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+22CSE170,Ojha Rajesh Kumar,rajeshkumar_o@vnrvjiet.in,7008340803,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+22CSE171,Kakumanu Sreenivasa,sreenivasarao_k@vnrvjiet.in,9441011947,Male,CS-AIMLIOT,Assistant Professor,Active
+22ECE001,Thanuru Jagadish,thanurujagadish23@gmail.com,9603466598,Male,ECE,Skilled Assistant,Active
+22ECE007,Tatta Sujata,sujarangadham@gmail.com,9618729292,Female,ECE,Skilled Assistant,Active
+22ECE042,Dr. Aruru Sai Kumar,saikumar_a@vnrvjiet.in,7013251431,Male,ECE,Assistant Professor,Active
+22ECE056,Dr Talasila Srinivas,srinivas_t@vnrvjiet.in,9985670778,Male,ECE,Assistant Professor,Active
+22ECE073,Munagoti Bhagya Lakshmi,bhagyalakshmi_m@vnrvjiet.in,9542694364,Female,ECE,Assistant Professor,Active
+22ECE077,Dr Nimmagadda Neelima,neelima_n@vnrvjiet.in,9502751880,Female,ECE,Assistant Professor,Active
+22ECE098,Eda Vijaya Babu,vijayababu_e@vnrvjiet.in,9390209415,Male,ECE,Assistant Professor,Active
+22ECE105,Ambati Pravallika,pravallika_a@vnrvjiet.in,6300853657,Female,ECE,Assistant Professor,Active
+22ECE146,Dr Chevella Anil Kumar,anilkumar_chevella@vnrvjiet.in,8897089638,Male,ECE,Assistant Professor,Active
+22EEE005,Shilpa Sagiri,shilpasagiri@gmail.com,8297149144,Female,EEE,Skilled Assistant,Active
+22EEE014,Kunati Kumara Raja,-,9014643784,Male,EEE,Skilled Assistant,Inactive
+22EEE021,Katroth Peerya,-,9666517906,Male,EEE,Skilled Assistant,Inactive
+22EEE022,Katroth Peerya,kpeerya_it@vnrvjiet.in,9666517906,Male,IT,Skilled Assistant,Active
+22EEE069,Dr. Chejarla Madhu Kishore,madhukishore_c@vnrvjiet.in,9553292079,Male,EEE,Assistant Professor,Inactive
+22EEE074,Boppana Naga Swetha,nagaswetha_b@vnrvjiet.in,9505758279,Female,EEE,Assistant Professor,Active
+22EEE076,Katukam Vamshi Kumar,vamshikumar_k@vnrvjiet.in,8019751142,Male,EEE,Assistant Professor,Inactive
+22EEE078,Dr. Kanagala Subhash Babu,subhashbabu_k@vnrvjiet.in,9440340529,Male,EEE,Assistant Professor,Active
+22EEE081,Kunta Srikanth,srikanth_k@vnrvjiet.in,9493436926,Male,EEE,Assistant Professor,Active
+22EEE082,Rajulapati Sudha,sudha_r@vnrvjiet.in,9849394228,Female,EEE,Assistant Professor,Active
+22EEE083,Gorla Anjali Devi,anjalidevi_g@vnrvjiet.in,7036065290,Female,EEE,Assistant Professor,Active
+22EEE102,Bavupally Madhuri,madhuri_b@vnrvjiet.in,9912860858,Male,EEE,Assistant Professor,Active
+22EIE101,Chanagoni Venkanna,venkanna_ch@vnrvjiet.in,9493835251,Male,EIE,Assistant Professor,Active
+22ENG064,Togaru Nithish,-,9676105472,Male,Engg Cell,Jr.SE,Active
+22ENG069,Togaru Nithish,-,9676105472,Male,Engg Cell,Jr. Assistant,Inactive
+22ENG075,Chinuri Koushik,-,7981886421,Male,Engg Cell,Jr.SE,Inactive
+22ENG084,Kancharla Arun Teja,-,9959630205,Male,Engg Cell,Jr.SE,Inactive
+22ENG095,Vadai Bheemrao,-,9652355596,Male,Engg Cell,Site Engineer,Active
+22ENG104,Kakunuri Harish Kumar Reddy,-,9182743351,Male,Engg Cell,Jr.SE,Inactive
+22ENG107,Koduri Venu,-,8688102450,Male,Engg Cell,Site Engineer,Active
+22ENG157,Kakarala Brahmananda,estatemanager@vnrvjiet.in,9705393339,Male,Engg Cell,Manager,Inactive
+22HAD158,Jillela Satya,ceo@vignanajyothi.com,9731146004,Male,HeadOffice,Prof. & Head,Inactive
+22HOA036,Challakonda Rajashekar,hr@vignanajyothi.com,8125864265,Male,ADM,Asst HR Manager,Inactive
+22HSS004,Mamidi Manjula,Keerti1manju@gmail.com,6303621356,Female,CHEMISTRY,Skilled Assistant,Active
+22HSS008,Advala Rajesh,rajesh94904@gmail.com,8466060669,Male,CHEMISTRY,Skilled Assistant,Active
+22HSS010,Pillalamarri Satyanarayana,satyanarayana5671@gmail.com,9908904526,Male,PHYSICS,Skilled Assistant,Active
+22HSS039,Dr Mamindla Ramesh,-,8978476250,Male,PHYSICS,Assistant Professor,Active
+22HSS045,Dr. Narra Sivakrishna,sivakrishna_n@vnrvjiet.in,8660398513,Male,CHEMISTRY,Assistant Professor,Active
+22HSS048,Akella Sri Pallavi,sripallavi_hands@vnrvjiet.in,9502544986,Female,HSS,Student Counselor,Inactive
+22HSS049,Dr. Gampala Prabhakar,prabhakar_g@vnrvjiet.in,9618707810,Male,HSS,Assistant Professor,Inactive
+22HSS053,Dr. Gaddam Lalith,lalith_g@vnrvjiet.in,9963514014,Male,HSS,Assistant Professor,Inactive
+22HSS054,Dr. Thottempudi Siva Nageswara Rao,sivanageswararao_t@vnrvjiet.in,9290453037,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+22HSS058,Dr. Kakarla Ujjwala,ujjwala_k@vnrvjiet.in,9133655029,Female,ENGLISH,Assistant Professor,Active
+22HSS059,Dr. Cherupally Shashi Kumar,shashikumar_ch@vnrvjiet.in,9912156008,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+22HSS060,Dr. Muduganti Pavan Kumar Reddy,pavankumarreddy_m@vnrvjiet.in,9490462461,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+22HSS063,Dr. Devarapalli Nagendra Prasad,nagendraprasad_d@vnrvjiet.in,9000144133,Male,PHYSICS,Assistant Professor,Active
+22HSS065,Dr. Angajala Gangadhara,gangadhara_a@vnrvjiet.in,8015125915,Male,CHEMISTRY,Assistant Professor,Active
+22HSS070,Dr. Yadavalli Venkata Sudha Devi,sudhadevi_yv@vnrvjiet.in,9866834557,Female,ENGLISH,Assistant Professor,Active
+22HSS091,Dr. Tatineni Jayashree,jayashree_t@vnrvjiet.in,9948643949,Male,MATHS&MANAGEMENT,Professor,Active
+22HSS109,Dr Waheed Shafiah,shafiah_w@vnrvjiet.in,7680863009,Female,ENGLISH,Assistant Professor,Active
+22HSS141,Rayaroth Sreepriya,sreepriya_r@vnrvjiet.in,6238258296,Female,HSS,Assistant Professor,Inactive
+22HSS142,Rayaroth Sreepriya,sreepriya_r@vnrvjiet.in,6238258296,Female,ENGLISH,Assistant Professor,Active
+22HSS147,Dr. Metla Swathi,swathi_m@vnrvjiet.in,8074715559,Female,ENGLISH,Assistant Professor,Inactive
+22ITD009,Baddam Srinivas Reddy,srinivasreddy.ieg@gmail.com,9542589590,Male,IT,Network &H/W Programmer,Active
+22ITD016,Kotha Radhika,radhika_k@vnrvjiet.in,9908640340,Female,IT,Assistant Professor,Active
+22ITD022,Vemula Manoj Kumar,-,9032247912,Male,IT,Assistant Professor,Inactive
+22ITD023,Vemula Manoj Kumar,manojkumar_v@vnrvjiet.in,9032247912,Male,IT,Assistant Professor,Active
+22ITD025,Podilapu Padmavathi,ppadmavathi_it@vnrvjiet.in,9182991305,Female,IT,Computer Operator,Inactive
+22ITD027,Jakkula Sravanthi,-,9441255813,Female,IT,Assistant Professor,Active
+22ITD040,Vootukur Shirisha,-,9849142989,Female,IT,Assistant Professor,Inactive
+22ITD066,Vundavilli Sri Krishna Kireeti,srikrishnakireeti_it@vnrvjiet.in,9885588887,Male,IT,Jr. Assistant,Active
+22ITD092,Maheswaram Akhil,akhil_it@vnrvjiet.in,6360716501,Male,IT,sys.adm,Active
+22ITD113,Yeddula Bhaskar Reddy,bhaskarreddy_y@vnrvjiet.in,9490494250,Male,IT,Assistant Professor,Active
+22ITD128,Rudra Yamini Rani,yaminirani_r@vnrvjiet.in,7702761126,Female,IT,Assistant Professor,Active
+22ITD144,Ragi Rajesh,-,9908171225,Male,IT,Assistant Professor,Inactive
+22ITD161,Mogatala Radha,radha_m@vnrvjiet.in,9741531571,Female,IT,Assistant Professor,Active
+22ITD162,Chittajallu Sri Lakshmi,-,9492863363,Female,IT,Assistant Professor,Inactive
+22MED012,Mani Mani Yugandhara Charyulu,-,8019590822,Male,ME,Skilled Assistant,Inactive
+22MED026,Kosoori Tatacharyulu,-,9948625983,Male,ME,Skilled Assistant,Inactive
+22MED051,Chemikala Venkata Rami Reddy,venkataramireddy_me@vnrvjiet.in,7013524199,Male,ME,Skilled Assistant,Active
+22MED099,Tholeti Himabindu,himabindu_t@vnrvjiet.in,8328545426,Female,ME,Assistant Professor,Inactive
+22MED154,Budama Vishnu,vishnukumar_b@vnrvjiet.in,9100639658,Male,ME,Sr.Assistant Professor,Inactive
+22PED032,Dr. Guttikonda Sreerama,sports@vnrvjiet.in,9440121314,Male,MATHS&MANAGEMENT,Associate Professor,Active
+22PED086,Bavandla Dinesh,-,9059950429,Male,SPORTS,Jr. Assistant,Active
+22PED087,Gattamaneni Vamsi Krishna,-,9182040257,Male,SPORTS,Trainer,Active
+22PED088,Chiranjevi Raja Ramesh,-,6305133425,Male,SPORTS,Gym Trainer,Inactive
+22PED090,Shoaib Khan,-,8374017591,Male,SPORTS,Trainer,Inactive
+22RCC013,Mamilla Srikanth,-,8008681543,Male,RCC,Computer Operator,Inactive
+23ADM002,Pollepally Malathi,malathi_adm@vnrvjiet.in,7981309665,Female,ADM,Computer Operator,Active
+23ADM053,D Ravichandran,administrativeofficer@vnrvjiet.in,9047111965,Male,ADM,ADMIN OFFICER,Active
+23ADM056,Chava Santosh,santosh_adm@vnrvjiet.in,9177258987,Male,ADM,Junior Computer  Programmer,Active
+23ADM068,Mavuram Madhukar,madhukar_m@vnrvjiet.in,9951966448,Male,ADM,Accounts Officer,Active
+23ADM072,Gurram Srinivas,-,9505048157,Male,HK,House Keeper,Inactive
+23ADM091,Vallamreddy Chimpireddy,-,9701209858,Male,ADM,Supervisor,Inactive
+23ADM096,Patibandla Parvathi1,parvathi_ao@vnrvjiet.in,9391539578,Female,ADM,Senior Accountant,Active
+23ADM097,Vellanki Venkata Satya Subba Lakshmi,-,8790318746,Female,ADM,Record Assistant,Inactive
+23ADM135,Boddu Chitti Babu,chittibabu.boddu86@gmail.com,9100570646,Male,ADM,Chief Security & Vigilance Officer,Inactive
+23AED003,Parkibanda Chandra,chandrashaker_ae@vnrvjiet.in,9959840671,Male,AE,Skilled Assistant,Active
+23AED111,Manthena Vijay,vijay_m@vnrvjiet.in,8712279612,Male,AE,Assistant Professor,Active
+23AED129,Dr Chadalawada Sri Chaitanya,srichaitanya_ch@vnrvjiet.in,7207172096,Male,AE,Assistant Professor,Active
+23CED014,Dr. Gundavaram Dinesh,Dinesh_g@vnrvjiet.in,7569696528,Male,CE,Assistant Professor,Inactive
+23CED020,Dr. Peerumohammed Zahira Seenu,seenu_pz@vnrvjiet.in,9515956957,Female,CE,Assistant Professor,Active
+23CED021,Dr. Praseeda Dandu,praseeda_d@vnrvjiet.in,9491554140,Male,CE,Assistant Professor,Active
+23CED055,Dr Gokulan Ravindiran,gokulan_r@vnrvjiet.in,9944233081,Male,CE,Assistant Professor,Active
+23CED109,Dr Kasinikota Pardhasaradhi,pardhasaradhi_k@vnrvjiet.in,9848404395,Male,CE,Assistant Professor,Active
+23CED112,Dr. Gudla Amulya,amulya_g@vnrvjiet.in,9292951302,Female,CE,Assistant Professor,Inactive
+23CED113,Havalagi Lohit,lohit_h@vnrvjiet.in,8296369017,Male,CE,Assistant Professor,Active
+23CED127,Dr. Chintala Nageshwar Rao,nageshwarrao_ch@vnrvjiet.in,9000525198,Male,CE,Professor,Inactive
+23CSE001,Gadde Mamatha,mamatha_g@vnrvjiet.in,7989842020,Female,CS-AIMLIOT,Assistant Professor,Inactive
+23CSE005,Kasetti Sai Bhargav,saibhargav_k@vnrvjiet.in,8179952962,Male,"DS,CS&AIDS",Assistant Professor,Active
+23CSE006,JajaLa Nikitha,nikitha_j@vnrvjiet.in,8374837470,Female,CS-AIMLIOT,Assistant Professor,Inactive
+23CSE007,Tummala Lavanya,lavanya_csds@vnrvjiet.in,9848222689,Female,"DS,CS&AIDS",JCP,Inactive
+23CSE008,Borgaonkar Deepika,deepika_b@vnrvjiet.in,8185810859,Female,"DS,CS&AIDS",Assistant Professor,Active
+23CSE009,Mekala Sunil Kumar,sunilkumar_m@vnrvjiet.in,9848506678,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+23CSE010,Perunalla Praveen,praveen_p@vnrvjiet.in,9032627173,Male,CSE,Assistant Professor,Active
+23CSE011,Dr. Vadlamudi Muniraju Naidu,munirajunaidu_v@vnrvjiet.in,9948768303,Male,CSE,Assistant Professor,Inactive
+23CSE012,Dr Narisetty Nirmalajyothi,nirmalajyothi_n@vnrvjiet.in,9951222626,Female,CS-AIMLIOT,Assistant Professor,Inactive
+23CSE013,Madasu Gnana Vardhan,gnanavardhan_m@vnrvjiet.in,7799530889,Male,CS-AIMLIOT,Assistant Professor,Inactive
+23CSE015,Shaik Mabasha,mabasha_sk@vnrvjiet.in,9160779079,Male,CS-AIMLIOT,Assistant Professor,Active
+23CSE016,Chappidi Sandhya Rani,sandhyarani_ch@vnrvjiet.in,9849745284,Female,CSE,Assistant Professor,Active
+23CSE018,Arumbaka Srinivasa Rao,srinivasarao_a@vnrvjiet.in,9985671577,Male,CS-AIMLIOT,Assistant Professor,Inactive
+23CSE019,Mohanty Rasmita Kumari,rasmitakumari_m@vnrvjiet.in,7207448520,Female,"DS,CS&AIDS",Assistant Professor,Active
+23CSE021,Dr. Kanaparthi Suresh Kumar,sureshkumar_k@vnrvjiet.in,9885174480,Male,"DS,CS&AIDS",Sr.Assistant Professor,Inactive
+23CSE022,Gollapudi Mounika,mounika_g@vnrvjiet.in,8977598929,Female,"DS,CS&AIDS",Assistant Professor,Active
+23CSE023,Gamidelli Yedukondalu,yedukondalu_g@vnrvjiet.in,8919923555,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+23CSE024,Potta Devika,devika_p@vnrvjiet.in,9052559992,Female,"DS,CS&AIDS",Assistant Professor,Active
+23CSE025,Balingan Sangameshwar,sangameshwar_b@vnrvjiet.in,9030172123,Male,"DS,CS&AIDS",Assistant Professor,Active
+23CSE026,Palabindela  Swetha,swetha_p@vnrvjiet.in,9441771290,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE027,Vatte Vijaya Bhaskara Reddy,vijayabhaskarareddy_v@vnrvjiet.in,8897192696,Male,CSE,Assistant Professor,Active
+23CSE029,Singamaneni Krishnapriya,krishnapriya_s@vnrvjiet.in,9491062481,Female,"DS,CS&AIDS",Assistant Professor,Active
+23CSE038,Chittuluri Suresh Kumar raju,sureshkumarraju_ch@vnrvjiet.in,8121285286,Male,CSE,Assistant Professor,Active
+23CSE042,Akhil Ch,akhil_ch@vnrvjiet.in,7036072746,Male,"DS,CS&AIDS",Assistant Professor,Active
+23CSE043,Ajay Dilip kumar Marapatla,ajaydilipkumar_m@vnrvjiet.in,9177301818,Male,CS-AIMLIOT,Assistant Professor,Inactive
+23CSE044,Rajesh Para,rajesh_p@vnrvjiet.in,9703758158,Male,CSE,Assistant Professor,Active
+23CSE046,Sravan Rentala,sravan_r@vnrvjiet.in,8555829520,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+23CSE047,Pramod Kumar Amaravarapu,pramodkumar_m@vnrvjiet.in,9908892577,Male,"DS,CS&AIDS",Assistant Professor,Active
+23CSE048,Kalidindi Archana,archana_kalidindi@vnrvjiet.in,8121144619,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE054,Chennadi Jyothi,jyothi_cse@vnrvjiet.in,9866918571,Female,CSE,Jr. Assistant,Active
+23CSE057,Thota Deepa,deepa_t@vnrvjiet.in,8977772577,Female,CSE,Assistant Professor,Inactive
+23CSE059,Parvathaneni Koteswari,koteswari_csds@vnrvjiet.in,9963895123,Female,"DS,CS&AIDS",Computer Operator,Active
+23CSE063,Dr. Dharavath Manju,manju_d@vnrvjiet.in,9490747592,Female,"DS,CS&AIDS",Assistant Professor,Active
+23CSE064,Shaik Saddam Hussain,saddam_sk@vnrvjiet.in,9398236139,Male,CSE,Assistant Professor,Active
+23CSE065,Venati Sudhakar,sudhakar_v@vnrvjiet.in,8309780226,Male,CS-AIMLIOT,Assistant Professor,Inactive
+23CSE067,Dr Myneni Madhu Bala,madhubala_m@vnrvjiet.in,9885543778,Female,CSE,Professor,Active
+23CSE070,Dr Karumuri Sri Rama Murthy,sriramamurthy_k@vnrvjiet.in,9848093395,Male,CSE,Assistant Professor,Active
+23CSE073,Jupalli Pushpa Kumari,pushpakumari_j@vnrvjiet.in,9100758271,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE074,Nanuvala Thirupathi,thirupathi_n@vnrvjiet.in,9966562206,Male,CSE,Assistant Professor,Active
+23CSE081,Yavanamandha Prasanthi,prasanthi_y@vnrvjiet.in,9701339996,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE082,Dr Gajji Spoorthy,spoorthy_g@vnrvjiet.in,9701296256,Female,"DS,CS&AIDS",Assistant Professor,Active
+23CSE084,Karri Vandana,vandana_csds@vnrvjiet.in,7330903186,Female,"DS,CS&AIDS",JCP,Active
+23CSE085,Sajja Praveen Kumar,praveenkumar_aiml@vnrvjiet.in,9177790219,Male,ADM,Junior Computer  Programmer,Active
+23CSE087,Murukutla Lakshmi Prasanna,lakshmiprasanna_csds@gmail.com,9618062058,Female,"DS,CS&AIDS",Computer Operator,Active
+23CSE089,Buddaraju Ashok Varma,ashokvarma_csds@vnrvjiet.in,9704440708,Male,"DS,CS&AIDS",Computer Operator,Active
+23CSE092,Birru Sandhya,sandhya_aiml@vnrvjiet.in,8639906180,Female,CS-AIMLIOT,Computer Operator,Active
+23CSE093,Bollampalli Pravalika,pravalika_aiml@vnrvjiet.in,6281623050,Female,CS-AIMLIOT,JCP,Active
+23CSE094,Venna Navya Sree,navyasree_aiml@vnrvjiet.in,9391096178,Female,CS-AIMLIOT,JCP,Inactive
+23CSE095,Etikala Gurumohan Rao,gurumohan_e@vnrvjiet.in,8639003904,Male,CS-AIMLIOT,Assistant Professor,Active
+23CSE099,Sunkam Navya,navya_aiml@vnrvjiet.in,9177979478,Female,CS-AIMLIOT,Computer Operator,Active
+23CSE105,Vorem Kishore,kishore_v@vnrvjiet.in,7093794462,Male,CS-AIMLIOT,Assistant Professor,Active
+23CSE115,Venkannagari Manjula,manjula_v@vnrvjiet.in,9866732900,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE117,Vadlamudi Hemadevi,hemadevi_v@vnrvjiet.in,9491722928,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE119,Manthena Swapna Kumari,swapnakumari_m@vnrvjiet.in,7032878892,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE121,Ravula Jyothsna,jyothsna_r@vnrvjiet.in,8297242242,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE122,Bankali Pavan Kumar,pavankumar_cse@vnrvjiet.in,9908203102,Male,CSE,JCP,Active
+23CSE125,Yellanki Veda Sahiti,sahiti_y@vnrvjiet.in,9490608083,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE126,Dr Dandu Sreevidya,sreevidya_d@vnrvjiet.in,8555874576,Female,"DS,CS&AIDS",Assistant Professor,Active
+23CSE130,Talluri Aruna Sri,arunasri_t@vnrvjiet.in,9948670540,Female,CS-AIMLIOT,Assistant Professor,Active
+23CSE134,Dr. Kavadi Durga Prasad,durgaprasad_k@vnrvjiet.in,9290901526,Male,CS-AIMLIOT,Sr.Assistant Professor,Active
+23ECE030,Dr. Shaik Shoukat Vali,shoukatvali_sk@vnrvjiet.in,6309421089,Male,ECE,Assistant Professor,Active
+23ECE036,Yerra Sri Rama,srirama_y@vnrvjiet.in,8309444821,Female,ECE,Assistant Professor,Active
+23ECE039,Sireesha Amaraneni,sireesha_a@vnrvjiet.in,8309548144,Female,ECE,Assistant Professor,Active
+23ECE040,PratyushaChowdari Ch,pratyusha_ch@vnrvjiet.in,9492007569,Female,ECE,Assistant Professor,Inactive
+23ECE045,Chiranjeevi Thokala,chiranjeevi_t@vnrvjiet.in,8247406968,Male,ECE,Assistant Professor,Active
+23ECE051,Aditya Kumar Tikkireddi,adityakumar_t@vnrvjiet.in,9989661117,Male,ECE,Assistant Professor,Inactive
+23ECE108,Dr. Vydha Pradeep Kumar,pradeepkumar_v@vnrvjiet.in,9553568108,Male,ECE,Assistant Professor,Active
+23ECE110,Dr. Nemani Subash,subash_n@vnrvjiet.in,9949959943,Male,ECE,Assistant Professor,Inactive
+23EEE052,Dr Perattur Nagabushanam,nagabushanam_p@vnrvjiet.in,9677528501,Male,EEE,Assistant Professor,Active
+23EEE106,Dr. Avvari Ravi Kumar,ravikumar_a@vnrvjiet.in,7382405100,Male,EEE,Assistant Professor,Active
+23EEE114,Bommena Harshini,harshini_b@vnrvjiet.in,9640718759,Female,EEE,Assistant Professor,Active
+23EEE120,Dr. Annamraju Anil Kumar,anilkumar_a@vnrvjiet.in,9491238460,Male,EEE,Assistant Professor,Active
+23EEE123,Dr. Nareddy Nageswara Reddy,nageswarareddy_n@vnrvjiet.in,9502990767,Male,EEE,Assistant Professor,Active
+23ENG080,Jena Alok Kumar,alokkumarjean222@gmail.com,8917391978,Male,Engg Cell,Plumber,Active
+23ENG098,Patel Rajender Reddy,-,9703325551,Male,Engg Cell,Supervisor,Active
+23HAD066,Vipul Vij,-,9866650550,Male,HeadOffice,Chief Marketing officer,Active
+23HAD069,Tallapally Raju,nr@vnrvjiet.in,9010673242,Male,HeadOffice,Driver,Active
+23HAD076,Muddhagouni Manik Prabhu,-,8978966289,Male,HeadOffice,Team Leader admissions,Active
+23HSS004,Nukavarapu Jyothi,jyothi_hands@vnrvjiet.in,9640310947,Female,PHYSICS,Skilled Assistant,Active
+23HSS017,JVLL Kusuma Kumari,vllkusumakumari_ch@vnrvjiet.in,9985824458,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+23HSS034,Dr Yerneni Prabhavati,prabhavati_y@vnrvjiet.in,8367277312,Female,ENGLISH,Professor,Inactive
+23HSS035,Dr. Annam Sri Charitha,sricharitha_a@vnrvjiet.in,9704999019,Female,CHEMISTRY,Assistant Professor,Active
+23HSS036,SRIRAMA YERRA,sriram@gmail.com,1234556677,Male,ECE,Assistant Professor,Inactive
+23HSS049,RAJU ADIGOPPULA,raju@a@vnrvjiet.in,9359219751,Male,HSS,Assistant Professor,Inactive
+23HSS050,Dr Bandanatham Nagamalleswari,nagamalleswari_b@vnrvjiet.in,9246343797,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+23HSS062,Dr. Konakanchi Ramaiah,ramaiah_k@vnrvjiet.in,9550903858,Male,CHEMISTRY,Assistant Professor,Active
+23HSS071,Dr. Paladugu Suresh,suresh_p@vnrvjiet.in,9848412915,Male,CHEMISTRY,Assistant Professor,Active
+23HSS090,Balivada Sri Pavani,sripavani_b@vnrvjiet.in,8143664725,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+23HSS101,Kammari Raju,-,9908149689,Male,HSS,JCP,Inactive
+23HSS102,Lagadapati Vamsi,vamsi_hands@vnrvjiet.in,9676379404,Male,ENGLISH,JCP,Active
+23HSS107,Dr Jayanthi Lalitha Sridevi,lalithasridevi_j@vnrvjiet.in,7386610601,Female,ENGLISH,Assistant Professor,Active
+23HSS118,Dr. Erram Ramesh,ramesh_e@vnrvjiet.in,9849335549,Male,HSS,Assistant Professor,Inactive
+23HSS131,Dr. Kilaru Madhavi,madhavi_k@vnrvjiet.in,7382654448,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+23ITD086,Shaga Anoosha,anoosha_s@vnrvjiet.in,9398786971,Female,IT,Assistant Professor,Active
+23ITD132,Maddamsetti Mownika Rayudu,mownikarayudu_m@vnrvjiet.in,7093678968,Female,IT,Assistant Professor,Active
+23MED028,Vanapalli Srinivasa Rohit,srinivasarohit_v@vnrvjiet.in,8897473738,Male,ME,Assistant Professor,Inactive
+23MED031,VENKATA SATYA PRASAD SOMAYAJULA,ven@gmail.com,238947897,Male,ME,Assistant Professor,Inactive
+23MED032,Dr Somayajula Venkata Satya Prasad,satyaprasad.sv@gmail.com,9885346917,Male,ME,Assistant Professor,Active
+23MED033,Dr Geddam Veera Subhash,vsubhash_g@vnrvjiet.in,9491517141,Male,ME,Assistant Professor,Active
+23MED061,Sudani Malleswara Rao,malleswara_me@vnrvjiet.in,9951228957,Male,ME,Skilled Assistant,Active
+23MED066,Mekala Prabhakar,prabhakar_me@vnrvjiet.in,9676102149,Male,ME,Skilled Assistant,Active
+23MED075,Dr Nagavelly Shiva Kumar,shivakumar_n@vnrvjiet.in,9849185161,Male,ME,Assistant Professor,Active
+23MED104,Dr. Mohammed Sohaib Raza,sohaibraza@vnrvjiet.in,9493933974,Male,ME,Assistant Professor,Inactive
+23MED128,Dr. Bobba Sujith,sujith_b@vnrvjiet.in,7330813943,Male,ME,Assistant Professor,Active
+23MTP103,Kadainti Karthikeya Kumar,karthikeya_tnp@vnrvjiet.in,9177457715,Male,T&P,Corporate Relation Officer,Inactive
+23MTP116,Kabita Nayak,kabita_tnp@vnrvjiet.in,9502856629,Female,T&P,Corporate Relation Officer,Active
+23MTP124,Dr. D Pardhasaradhi,pardha@vnrvjiet.in,9949571379,Male,MATHS&MANAGEMENT,Head of the Department,Active
+23MTP133,Lankannagari Nagabhushan Reddy,-,8801424070,Male,T&P,Consultant / Advisor,Active
+23PED088,Nallasanthala Suresh,-,7358186711,Male,SPORTS,Gym Trainer,Active
+23PED100,Dr. M Polaiah Naidu,m.polaiahnaidu@gmail.com,9676520177,Male,SPORTS,Medical Officer,Active
+23RCC058,Kidambi Srinivas,teamlead_csrf@vnrvjiet.in,9177702761,Male,RCC,Team lead for CSR Funds,Active
+23RCC060,Sadasivareddy gari Spandana Reddy,legal@vnrvjiet.in,9958065102,Female,RCC,Legal Advisor,Active
+23RCC083,Podilapu Chandrashekar Rao,Chandrashekarrao_rcc@vnrvjiet.in,9010781416,Male,RCC,Computer Operator,Active
+24ADM016,Karnati Revathi,revathi_ao@vnrvjiet.in,7330657395,Female,ADM,Jr.Accountant,Active
+24ADM023,Santosh Kumar Yadav,santoshkumar_adm@vnrvjiet.in,9958031469,Male,ADM,Jr. Assistant,Active
+24ADM024,Mazhar Hussain Khan,mazharhussain_adm@vnrvjiet.in,7330893035,Male,ADM,Jr. Assistant,Active
+24ADM036,Chiluveru Dinesh Babu,dinesh_admin@vnrvjiet.in,8985840558,Male,ADM,JCP,Active
+24ADM044,Vallamreddy Chimpireddy,-,9701209858,Male,ADM,Supervisor,Active
+24ADM050,Gaddam Sahitya,sahitya_adm@vnrvjiet.in,9581776606,Female,ADM,Executive Assistant,Active
+24ADM059,Kandimalla Venkata Ramesh Babu,transport@vnrvjiet.in,9703206472,Male,ADM,Manager,Active
+24ADM060,Gurram Srinivas,-,9505048157,Male,HK,House Keeper,Active
+24ADM097,Choudekari Shekar,shekar_adm@vnrvjiet.in,9963727343,Male,ADM,Computer Operator,Active
+24ADM105,Kommula Dinesh,dinesh_adm@vnrvjiet.in,9553188788,Male,ADM,Networking Assistant,Active
+24ADM110,Halvi Sulekha,sulekha_adm@vnrvjiet.in,8374003989,Female,ADM,Computer Operator,Active
+24AED005,Dr Shaik Aslam Ansari,-,8500032913,Male,AE,"Head, Industry Institute Relations",Active
+24CED025,Mekala Manoj Kumar,manojkumar_ce@vnrvjiet.in,7675909345,Male,CE,Computer Operator,Active
+24CED055,Saragadam Hema Vamsi Krishna,vamsikrishna_sh@vnrvjiet.in,8686621100,Male,CE,Assistant Professor,Active
+24CED057,Talasila Bhavani Chowdary,bhavani_t@vnrvjiet.in,9491378858,Female,CE,Assistant Professor,Active
+24CSE002,Panthangi Venkateswara Rao,venkateswararao_panthangi@vnrvjiet.in,9000546086,Male,"DS,CS&AIDS",Assistant Professor,Active
+24CSE006,Malladu Madhu Latha,madhulatha_m@vnrvjiet.in,8125231018,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE007,Muthyala Mehar Sharanya,meharsharanya_m@vnrvjiet.in,8179931884,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE008,Gandaboina Vanaja Kumari,vanajakumari_g@vnrvjiet.in,9849807406,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE009,Kothakonda Akhila Tejaswini,akhilatejaswini_k@vnrvjiet.in,7337476470,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE010,Narahari Anjali,anjali_aiml@vnrvjiet.in,8106031363,Female,CS-AIMLIOT,JCP,Inactive
+24CSE012,Nandibhatla Haritha,haritha_n@vnrvjiet.in,9346832329,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE013,Chilukuri Divya,divya_c@vnrvjiet.in,7893817586,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE014,Dr Vankayalapati Radhika,radhika_v@vnrvjiet.in,8142790004,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE015,Kapu Prathyusha,prathyusha_k@vnrvjiet.in,6281378818,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE017,Batta Saranya,0,9491000398,Female,"DS,CS&AIDS",Assistant Professor,Inactive
+24CSE018,Goalla Sravanthi,sravanthi_g@vnrvjiet.in,8801018313,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE019,Gangaraju Krishna Keerthana,krishnakeerthana_g@vnrvjiet.in,6300451909,Female,"DS,CS&AIDS",Assistant Professor,Inactive
+24CSE020,Muthavarapu Sirisha,Pending....,8520867271,Female,"DS,CS&AIDS",Assistant Professor,Inactive
+24CSE021,Ponnam Lalitha,lalitha_p@vnrvjiet.in,8186022478,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE027,Mugala Sri Sevitha,srisevitha_m@vnrvjiet.in,9948020059,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE028,Donthamsetti Veera Bhadra Rao,d.bhadrarao@gmail.com,7708451088,Male,"DS,CS&AIDS",Assistant Professor,Active
+24CSE029,Manchikalapati Krishna Prasad,head.iie@vnrvjiet.in,7702969440,Male,CS-AIMLIOT,"Head, Innovation, Incubation & Entrepreneurship",Active
+24CSE031,Dr Koganti Nishanth,nishanth_k@vnrvjiet.in,9347233393,Male,CS-AIMLIOT,Professor of Practice,Active
+24CSE033,Tangirala Krishna,0,7702841645,Male,CSE,Professor of Practice,Active
+24CSE034,Dr Devarapalli Prasannababu,-,9160756000,Male,"DS,CS&AIDS",Professor of Practice,Active
+24CSE037,Bachu Dhanalaxmi,dhanalaxmi_b@vnrvjiet.in,9705081320,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE038,Alapati Amaravani,amaravani_cse@vnrvjiet.in,8978555349,Female,CSE,JCP,Active
+24CSE039,Dr M H Abhilash,abhilash_mh@vnrvjiet.in,9008712681,Male,"DS,CS&AIDS",Assistant Professor,Inactive
+24CSE042,Dr Cherukuri Kiran Mai,ckiranmai@vnrvjiet.in,9849155333,Female,CSE,Professor,Active
+24CSE045,Nidamanuri Sudheer,sudheer_n@vnrvjiet.in,7780152899,Male,"DS,CS&AIDS",Assistant Professor,Active
+24CSE046,Bappanna Bhagyashree,bhagyashree_b@vnrvjiet.in,8792695725,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE049,Patil Meenakshi,meenakshi_p@vnrvjiet.in,9550871307,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE053,Veeragandham Susmitha,susmitha_v@vnrvjiet.in,9701635577,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE056,Kadari Swathi,swathi_k@vnrvjiet.in,9849012258,Female,CSE,Assistant Professor,Active
+24CSE062,Nallabariki Praveen Kumar,praveenkumar_n@vnrvjiet.in,9154879440,Male,CSE,Assistant Professor,Active
+24CSE063,Challa Naga Venkata Jyothirmai,jyothirmai_ch@vnrvjiet.in,8309862776,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE067,Dr Sayanti Chatterjee,sayanti_ch@vnrvjiet.in,9433123438,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE068,Myakal Sabhapathy,sabhapathy_m@vnrvjiet.in,9949120541,Male,CS-AIMLIOT,Assistant Professor,Inactive
+24CSE072,Dr Rajesh Kumar Verma,rajeskverma.hyd10@gmail.com,9848733560,Male,"DS,CS&AIDS",Professor of Practice,Active
+24CSE079,Kurakula Naga Sandhya,nagasandhya_k@vnrvjiet.in,6281459252,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE088,Dr Mule Laxmidevi Ramanaiah,laxmidevi_m@vnrvjiet.in,9493913676,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE091,Rupesh Mittal,-,9133266399,Male,CSE,Asst. Professor of Practice,Active
+24CSE092,Katakam Vamsi Krishna,-,9945455819,Male,CSE,Professor of Practice,Active
+24CSE093,Nelluru Anjaneyulu,-,8919484824,Male,CS-AIMLIOT,Assistant Professor,Active
+24CSE095,Polaji Prakash,-,7032987567,Male,CSE,Professor of Practice,Active
+24CSE096,Koneru Anitha,anitha_k@vnrvjiet.in,9493488659,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE098,Challa Sneha,-,9030203399,Female,"DS,CS&AIDS",Associate Professor of Practice,Active
+24CSE100,Nakkella Madhuri,madhuri_n@vnrvjiet.in,8897836062,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE101,Girish Kulkarni,girish_k@vnrvjiet.in,8971671984,Male,CS-AIMLIOT,Assistant Professor,Active
+24CSE102,Tummala Venkata  Santhosha Lakshmi Bhavani,bhavani_csds@vnrvjiet.in,8143438613,Female,"DS,CS&AIDS",computer programmer,Active
+24CSE107,Dhara Pramod Kumar,-,9398277950,Male,CS-AIMLIOT,Computer Operator,Active
+24CSE108,Yemineni Ashok,ashok_y@vnrvjiet.in,9700620303,Female,CS-AIMLIOT,Assistant Professor,Active
+24CSE111,Duggineni Srinivasa Rao,dsrinivasarao_ds@vnrvjiet.in,9985612632,Male,"DS,CS&AIDS",Assistant Professor,Active
+24CSE113,Abbi Sandhya Rani,sandhyarani_a@vnrvjiet.in,9346299918,Female,CSE,Assistant Professor,Active
+24CSE114,Padarthi Swathi,swathi_p@vnrvjiet.in,8500326845,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE115,Gattu Shravani,shravani_g@vnrvjiet.in,9398161594,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE116,Anand Kumar Saraswathi Rathod,-,9440971952,Male,"DS,CS&AIDS",Professor of Practice,Active
+24CSE117,Uppara Veeresh,veeresh_u@vnrvjiet.in,9989458748,Male,CS-AIMLIOT,Assistant Professor,Active
+24CSE118,Nam Vasundhara,vasundhara_n@vnrvjiet.in,6304017362,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE120,Ambati Jaya Bhargavi,jayabhargavi_a@vnrvjiet.in,9490136119,Female,"DS,CS&AIDS",Assistant Professor,Active
+24CSE121,Shetkar Ambika,ambika_s@vnrvjiet.in,7396121488,Female,CSE,Assistant Professor,Active
+24ECE011,Neelam Syamala,syamala_n@vnrvjiet.in,9666467008,Female,ECE,Assistant Professor,Active
+24ECE026,Godugu Kiran Kumar,kirankumar_g@vnrvjiet.in,8106029145,Male,ECE,Assistant Professor,Active
+24ECE035,Medavaram Dinakar,-,8790532463,Male,ECE,Professor of Practice,Active
+24ECE040,Maheshuni Sankush Krishna,sankushkrishna_m@vnrvjiet.in,9381858697,Male,ECE,Assistant Professor,Inactive
+24ECE070,Umar Farooq,umarfarooq232@gmail.com,7006549894,Male,ECE,Assistant Professor,Inactive
+24ECE071,Dr Challa Dhanunjaya Naidu,principal@vnrvjiet.ac.in,9391008138,Male,ECE,Prof. &Principal,Active
+24ECE073,Kamepalli  Dharani,dharani_k@vnrvjiet.in,8187877847,Female,ECE,Assistant Professor,Active
+24ECE075,Koduri Shashank,-,8142578830,Male,ECE,Professor of Practice,Active
+24ECE076,Yakama Vijayasree Kumar,-,9810702568,Male,ECE,Professor of Practice,Active
+24ECE083,Mannam Rama Rao,ramarao_m@vnrvjiet.in,7975149004,Male,ECE,Assistant Professor,Active
+24ECE085,Dr Vasagiri Krishnasree,krishnasree_v@vnrvjiet.in,9848054170,Female,ECE,Associate Professor,Active
+24EEE001,Dr. Jasthi Kiran,kiran_j@vnrvjiet.in,9951424065,Male,EEE,Assistant Professor,Active
+24EEE022,Ogirala Naga Divya,nagadivya_eee@vnrvjiet.in,7975363879,Female,EEE,Computer Operator,Active
+24EIE032,Dr Martha Narsi Reddy,-,8010527405,Male,EIE,Adjunct Faculty,Active
+24EIE087,Haroon Rasheed,rasheed_h@vnrvjiet.in,8978674747,Male,EIE,Assistant Professor,Active
+24EIE089,Dr Avvaru Srinivasulu,srinivasulu_a@vnrvjiet.in,8971996008,Male,EIE,Assistant Professor,Active
+24EIE104,Pothineni Sindhu,sindhu_eie@vnrvjiet.in,7702550292,Female,EIE,Computer Operator,Active
+24ENG041,Boddu Snehal,-,9391902959,Male,Engg Cell,Site Engineer,Active
+24ENG052,Vunnam Bapanaiah,-,9963018002,Male,Engg Cell,Sr.Project Manager,Active
+24ENG065,Jena Dilip Kumar,-,9124202436,Male,Engg Cell,Plumber,Active
+24ENG090,Veerendra Prabhu Vishwanatham,-,9849360809,Male,Engg Cell,Electrical Engineer,Active
+24ENG099,Kakarala Brahmananda Rao,estatemanager@vnrvjiet.in,9705393339,Male,Engg Cell,Manager Estates,Active
+24HAD003,Bhipeta Ravindhar,-,7816026863,Male,HeadOffice,Driver,Active
+24HAD051,Kurapati Gopal Reddy,-,7330749028,Male,HeadOffice,PRO,Active
+24HAD054,Kurukuntla Pranay,pranay.k@vignanajyothi.com,9849770585,Male,HeadOffice,Manager - Marketing & Communications,Active
+24HAD078,Bobby Roy,-,9160074999,Male,HeadOffice,Chief Marketing officer,Active
+24HAD086,Dr Sanjay Kumar,-,9848456868,Male,HeadOffice,Deputy CEO,Inactive
+24HSS004,Dr. Gurram Swapna,swapna_g@vnrvjiet.in,9959783219,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+24HSS030,Kodidasu Lavanya,lavanya_hands@vnrvjiet.in,7396028772,Female,HSS,Computer Operator,Inactive
+24HSS061,Kakumani Gayathri,gayathri_k@vnrvjiet.in,7680863018,Female,HSS,Assistant Professor,Inactive
+24HSS064,Ghosh Somrwita,somrwita_g@vnrvjiet.in,9502703351,Female,ENGLISH,Assistant Professor,Active
+24HSS080,Dr Likha Chandran,likha_ch@vnrvjiet.in,6369335257,Female,CHEMISTRY,Assistant Professor,Active
+24HSS082,Dr Adimulam Harinath,harinath_a@vnrvjiet.in,8639913011,Male,CHEMISTRY,Assistant Professor,Inactive
+24HSS112,Dr. Shaik Abdul Mazeed,abdulmazeed_sk@vnrvjiet.in,7842819899,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+24ITD066,Ambala Soujanya,soujanya_a@vnrvjiet.in,9293196394,Female,IT,Assistant Professor,Active
+24ITD077,Tadala Suryanarayana,-,6309688192,Male,IT,Professor of Practice,Active
+24ITD103,Kadimi Naga Venkata Padmaja,padmaja_it@vnrvjiet.in,8977764600,Female,IT,Junior Computer  Programmer,Active
+24LIB058,Macha Venkata Phani Kumar,phani_library@vnrvjiet.in,9849545333,Male,LIB,Sr. Asst. Librarian,Active
+24MED043,Pendem Venkata Krishna,venkatakrishna_me@vnrvjiet.in,8897802213,Male,ME,Skilled Assistant,Active
+24MED048,Shaik Shoeb,shaikshoeb_me@vnrvjiet.in,8328663591,Male,ME,Skilled Assistant,Inactive
+24MED069,Bandam Madhusudhan,-,9849790223,Male,ME,Professor of Practice,Active
+24MED074,Magham Murali Krishna,-,9849591665,Male,ME,Professor of Practice,Active
+24MED106,Kunchala Venkatesh,venkatesh_me@vnrvjiet.in,9949575121,Male,ME,Jr. Skilled Assistant,Active
+24MTP047,Dr Kala Venkata Mallikharjuna Achuta Ramaiah,achutaramaiah_kvm@vnrvjiet.in,9348030896,Male,T&P,Soft Skills Trainer,Active
+24MTP094,Dr Yerramilli Sreekanth,sreekanth_mtp@vnrvjiet.in,9440331544,Male,T&P,Manager,Inactive
+24MTP109,Chekka Buelah Sharon,buelah_tnp@vnrvjiet.in,9676544151,Female,T&P,Placement Officer,Active
+24PED081,Mohammed Sha Ilias Pasha,-,9440488330,Male,SPORTS,Basketball Trainer,Active
+24PED119,Kondragunta Lenin,-,9059548589,Male,SPORTS,Yoga Teacher,Active
+25ADM003,Boddu Chitti Babu,chittibabu.boddu86@gmail.com,9100570646,Male,ADM,Chief Security & Vigilance Officer,Active
+25CED001,Dr Poonam Shekhawat,poonam_s@vnrvjiet.in,9782221050,Female,CE,Assistant Professor,Active
+25CED015,Mannepalli Sivaprasad,-,9849964436,Male,CE,Instructor,Active
+25CHE023,Srungavruksham Nagarjuna Kumar,nagarjunakumar_s@vnrvjiet.in,9063023798,Male,CHEMISTRY,Assistant Professor,Active
+25CSE002,Seepuram Srinivas Kumar,srinivaskumar_s@vnrvjiet.in,7993462416,Male,"DS,CS&AIDS",Assistant Professor,Active
+25CSE006,Velpula Vinay Kumar,vinaykumar_v@vnrvjiet.in,9866951371,Male,"DS,CS&AIDS",Assistant Professor,Active
+25CSE009,Vonteru Srikanth Reddy,srikanthreddy_v@vnrvjiet.in,9010451336,Male,"DS,CS&AIDS",Assistant Professor,Active
+25CSE010,Bulusu Somanadha Satyadev,-,9908279034,Male,CSE,Assistant Professor,Active
+25CSE012,Majumdar Srijita,srijita_m@vnrvjiet.in,6290839897,Female,CSE,Assistant Professor,Active
+25CSE014,Golla Usha Rani,usharani_g@vnrvjiet.in,8125949290,Female,"DS,CS&AIDS",Assistant Professor,Active
+25CSE016,Dhanshree Mukund Pande,dhanshree_p@vnrvjiet.in,7020560224,Female,"DS,CS&AIDS",Assistant Professor,Active
+25CSE017,Amma Madhu,madhu_a@vnrvjiet.in,7981934222,Male,"DS,CS&AIDS",Assistant Professor,Active
+25CSE019,Marlapudi Shara Lydia,sharalydia_m@vnrvjiet.in,9394573673,Female,CS-AIMLIOT,Assistant Professor,Active
+25CSE024,Dr. Allam Venkata Siva Swetha,venkatasivaswetha_a@vnrvjiet.in,7674830614,Female,CSE,Assistant Professor,Active
+25EIE013,Kathoju Bheeshma Chary,bheeshmachary_eie@vnrvjiet.in,9177111301,Male,EIE,JCP,Active
+25END007,Dr. Ruchika Rai,ruchika_r@vnrvjiet.in,9966180682,Female,ENGLISH,Assistant Professor,Active
+25END022,Dr. Adusumilli Satya Hanuma,-,9866961119,Female,ENGLISH,Student Counselor,Active
+25ITD008,Ravi Surekha,surekha_it@vnrvjiet.in,9515325114,Female,IT,Computer Operator,Active
+25ITD011,Vijay Kumar,vijaykumar_it@vnrvjiet.in,7903676423,Male,IT,Jr Network Engineer,Active
+25MMS003,Dr. Ravikanti Arpitha,arpitha_r@vnrvjiet.in,8074774140,Female,MATHS&MANAGEMENT,Assistant Professor,Inactive
+25MMS004,Dr. Ravikanti Arpitha,arpitha_r@vnrvjiet.in,8074774140,Female,MATHS&MANAGEMENT,Assistant Professor,Active
+25MMS005,Dr. Simma Sailaja,-,7673905216,Female,MATHS&MANAGEMENT,Visiting Faculty,Active
+25MMS021,Reddimalla Naresh,naresh_r@vnrvjiet.in,8096697498,Male,MATHS&MANAGEMENT,Assistant Professor,Active
+25MTP018,Rachakonda Sai Krishna,saikrishna_tnp@vnrvjiet.in,8886001314,Male,T&P,Training & Placement,Active
+25MTP020,Panda Kumuda Ranjan,-,9121222285,Male,T&P,Head Corporate Relations,Active
+94HOADM01,Subhakara Rao G,00@00,9989631909,Male,HeadOffice,Senior Manager,Active
+95ADM002,Sridhar  Madipelli,hr@vnrvjiet.in,9346395911,Male,ADM,Superintendent,Active
+95ADM006,Jagadamba  Neelam,aa@vnrvjiet.in,9010673398,Female,HK,Sweeper / Helper,Active
+95ADM007,Gandani Narasimha,aa@vnrvjiet.in,9948407783,Male,HK,Helper,Active
+95ADM008,Srinivas  Annamalla,srinivasa_lib@vnrvjiet.in,9866244576,Male,LIB,Record Assistant,Active
+95CED013,Mannepalli Siva prasad,mannepallisiva@yahoo.com,9849964436,Male,CE,Instructor,Inactive
+95ECE009,Raju  Ragi,raju_ece@vnrvjiet.in,9866103800,Male,ECE,Instructor,Active
+95HSS004,Dr. Kothagattu Neelaveni,neelaveni_k@vnrvjiet.in,9618030007,Female,ENGLISH,Assoc.Prof & HOD,Active
+95HSS005,Nageswara rao  Pavuluri,nageswararao_p@vnrvjiet.in,9440345392,Male,HSS,Assistant Professor,Inactive
+95MED010,Kamalakara Rao Lagadapati,kamalakarao_me@vnrvjiet.in,8790649968,Male,ME,Instructor,Active
+95MED011,Srinivasa Chary Eriventy,Eriventisrinivasachary@gmail.com,9951742187,Male,ME,Instructor,Active
+96EEE005,Srinivas  Dasa,dasasrinivas01@gmail.com,9866689065,Male,Engg Cell,Sr. Skilled Asst.,Active
+96HSS007,Jonnalagadda Samba Siva Rao,sambasivarao_hands@vnrvjiet.in,9441951599,Male,CHEMISTRY,Instructor,Active
+96MED003,Dr.Giracharya Kistacharya Pujari,pujari_gk@vnrvjiet.in,9441737271,Male,ME,Associate Professor,Inactive
+96PED004,Dr. Guttikonda Sreerama,sports@vnrvjiet.in,9440121314,Male,HSS,Associate Professor,Inactive
+97ADM003,Lakshman Rao Buyyani,na@vnrvjiet.in,9666259416,Male,LIB,Record Assistant,Active
+97ADM005,Amburi Durgesh,d.amburi@rediffmail.com,9440629050,Male,EIE,Attender,Active
+97ADM007,Nagaraju  Kothapalli,nagaraju_lib@vnrvjiet.in,9866857752,Male,LIB,Skilled Assistant,Active
+97ADM016,Sailaja  Cherukuri,admissions@vnrvjiet.in,8985587945,Female,ADM,Superintendent,Active
+97ADM023,Suvarna  Tangirala,na@vnrvjiet.in,9908182278,Female,HK,Sweeper / Helper,Active
+97CED011,Vadlamudi Gopala krishna,gopalakrishna_ce@vnrvjiet.in,9440825322,Male,CE,Instructor,Active
+97CSE004,Dr. Bolneni Venkata Kiranmayee,kiranmayee_bv@vnrvjiet.in,7382004222,Female,CSE,Professor,Active
+97CSE009,Dr. Cherukuri Kiran Mai,ckiranmai@vnrvjiet.in,9849155333,Female,CSE,Professor,Active
+97ECE002,Dr. Lam Padma Sree,padmasree_l@vnrvjiet.in,9441253587,Female,ECE,Professor & HOD,Active
+97ECE017,Dr. Lavu Venkata Rajani Kumari,rajanikumari_lv@vnrvjiet.in,9603187807,Female,ECE,Associate Professor,Active
+97ECE018,Dr.Dhanunjaya Naidu Challa,principal@vnrvjiet.ac.in,9391008138,Male,ECE,Prof. &Principal,Active
+97ECE019,Rama Devi Maguluri,ramadevi_ece@vnrvjiet.in,7780503799,Female,ECE,Assistant Professor,Active
+97ECE020,Venkata Naga malleswari Vennam,vvnmalleswari_ece@vnrvjiet.in,9951342594,Female,ECE,Sr. Instructor,Active
+97EEE001,Dr. Kotapati Anuradha,anuradha_k@vnrvjiet.in,9849542288,Female,EEE,Prof. & Dean Academics,Active
+97EEE010,Bandi Sivaji,sivaji_eee@vnrvjiet.in,9849161214,Male,EEE,Instructor,Active
+97EEE015,Maalampaati Rama Krishna Das,mrk_eee@vnrvjiet.in,8499875853,Male,EEE,Instructor,Active
+97HOADM02,Narasimha Rao  T N,00@00,9949694960,Male,HeadOffice,Superintendent,Inactive
+97MED008,Dr. Gembali Srinivasa Gupta,srinivasagupta_g@vnrvjiet.in,9703879301,Male,ME,Professor,Active
+97MED012,Ramu  Surapaneni,na@vnrvjiet.in,9848391120,Male,ME,Instructor,Active
+97MED013,Vallabhaneni Murali Krishna,vmuralikrishna_me@vnrvjiet.in,9440388244,Male,ME,Instructor,Active
+98ADM001,VV SS LAKSHMI,aa@vnrvjiet.in,8790318746,Female,ADM,Record Assistant,Inactive
+98ADM005,Mariyala Narsimha,narsimha.mariyala@gmail.com,9700114680,Male,ME,Record Assistant,Active
+98ADMIN002,Ashi Narsing Rao,narsingh4@gmail.com,9492863167,Male,EEE,Record Assistant,Active
+98CSE011,Dr. Sabbineni Nagini,nagini_s@vnrvjiet.in,9705715640,Female,CSE,Professor,Active
+98ECE009,Guntur Radha Krishna,radhakrishna_g@vnrvjiet.in,9247160575,Male,ECE,Associate Professor,Inactive
+98EEE003,Vadlamudi Malleswari,malleswari_eee@vnrvjiet.in,9948649635,Female,EEE,Sr. Instructor,Active
+98EIE012,Dr. Rayudu Manjula Sri,manjulasree_r@vnrvjiet.in,9848197619,Female,EIE,Professor,Active
+98MED006,Dr. Bollu Satyanarayana,satyanarayana_b@vnrvjiet.im,9849527813,Male,ME,Professor,Active
+98MED010,Somanchi Rama Somayajulu,somayajulu_sr@vnrvjiet.in,9949082638,Male,ME,Associate Professor,Active
+99ADM001,Ravi srinivas  Vellanki,-,9030616550,Male,ADM,Record Assistant,Active
+99ADM004,Yarlagadda Anuradha,patoprincipal@vnrvjiet.in,09959736746,Female,ADM,Senior Administrative Assistant,Active
+99ADM007,Lalitha  Amburi,aa@vnrvjiet.in,9441387763,Female,HK,Sweeper / Helper,Active
+99CED005,Dr Kolli Ramujee,ramujee_k@vnrvjiet.in,9959894969,Male,CE,"Prof & HOD & Dean, E.E.",Active
+99ECE002,Dr. Yarlagadda Padma Sai,padmasai_y@vnrvjiet.in,9000037660,Female,ECE,Prof & Dean Student Progression,Active
+99EEE006,Dr. Veligatla Ramesh Babu,rameshbabu_v@vnrvjiet.in,9866524514,Male,EEE,Assoc.Prof & HOD,Active
+99HOADM03,Joshna Rani K,00@00,8374995095,Female,HeadOffice,Assistant Administrative Officer,Active
+99MED008,Dr. Sirivolu Shyam Sunder Rao,sshyamsunderrao@vnrvjiet.in,9848036526,Male,ME,Professor,Inactive
+CAMS1,CAMS1,@,@,Male,ADM,AAO,Active
+CHEMHOD,CHEMISTRY,chemhead@vnrvjiet.in,9848834565,Female,HSS,Head of the Department,Active
+CSE-AIMLIOT,CSE-AIMLIOT,csehead.aimliot@vnrvjiet.in,9849354789,Female,CS-AIMLIOT,AAO,Active
+CSE-DSCSAIDS,CSE-DSCSAIDS,csehead.dscs@vnrvjiet.in,9849296429,Male,"DS,CS&AIDS",AAO,Active
+Director for Advancement & Dean Admin,Director for Advancement & Dean Admin,NA,NA,Male,ME,AAO,Active
+ENGHOD,English HoD,englishhead@vnrvjiet.in,8367277312,Female,ENGLISH,Prof. & Head,Active
+GM,General Manager,abc@xyz.com,9849003495,Male,HeadOffice,AAO,Active
+M&MSHOD,Math&Management Science,mathematicshead@vnrvjiet.in,9246805457,Female,MATHS&MANAGEMENT,Assoc.Prof & HOD,Inactive
+MATHSHOD,Math&Management Science,mathematicshead@vnrvjiet.in,9246805457,Female,MATHS&MANAGEMENT,Head of the Department,Active
+PHYHOD,PHYSICS,phyhead@vnrvjiet.in,9000765579,Male,PHYSICS,Assoc.Prof & HOD,Active
+test,test,test@test.com,1234567890,Male,T&P,Soft Skills Trainer,Active
