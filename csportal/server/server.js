@@ -1,11 +1,9 @@
-require("dotenv").config()
+import express from "express";
+import bodyParser from "body-parser";
+import cors from "cors";
 
-const express = require('express');
-const bodyParser = require('body-parser');
-const cors = require('cors');
-
-const project1Router = require("./routes/project1/router");
-const project2Router = require("./routes/project2/router");
+import router from "./routes/project1/router.js";
+import project2Router from "./routes/project2/router.js";
 
 const app = express();
 const PORT = 5000;
@@ -15,7 +13,7 @@ app.use(bodyParser.json());
 app.use(express.json()); // Parse incoming JSON payloads
 app.use(cors()); // Enable CORS to allow requests from any domain
 
-app.use('/project1/api', project1Router);
+app.use('/project1/api', router);
 app.use('/project2/api', project2Router);
 
 app.use(express.static("build"));

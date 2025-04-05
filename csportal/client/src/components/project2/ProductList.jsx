@@ -14,7 +14,7 @@ function ProductList() {
         {/* Example List */}
         <ul>
           <li><a href="http://localhost:5000/project2/api">API</a></li>
-          <li><a href="http://localhost:5000/project2/api/employees">Employees</a></li>
+          <li><a href="http://localhost:5000/project2/api/faculty">Faculty</a></li>
         </ul>
       </div>
     </div>
