@@ -1,0 +1,24 @@
+import { useState } from "react";
+import TodoForm from "./components/TodoForm";
+import TodoList from "./components/TodoList";
+import "./App.css";
+
+const App = () => {
+  const [todos, setTodos] = useState([]);
+
+  const addTodo = (text) => setTodos([...todos, text]);
+
+  const removeTodo = (indexToRemove) =>
+    setTodos(todos.filter((_, index) => index !== indexToRemove));
+
+  return (
+    <div className="app">
+      <h1>📝 My TODO App</h1>
+      <TodoForm addTodo={addTodo} />
+      <TodoList todos={todos} removeTodo={removeTodo} />
+
+    </div>
+  );
+};
+
+export default App;

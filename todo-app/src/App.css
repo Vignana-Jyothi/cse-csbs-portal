@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f4f8;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+.app {
+  max-width: 400px;
+  margin: auto;
+}
+
+.todo-form input {
+  padding: 8px;
+  font-size: 16px;
+  width: 70%;
+}
+
+.todo-form button {
+  padding: 8px 12px;
+  margin-left: 8px;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  background: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
