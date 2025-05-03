@@ -1,0 +1,41 @@
+name: Node.js Pull Request CI
+
+on:
+  pull_request:
+    branches:
+      - 'ci-cd-fresh'
+
+jobs:
+  build:
+    runs-on: self-hosted-local
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+        app: [todo-app]
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Welcome message
+        run: |
+          echo Welcome to Node.js Pull Request CI
+
+      - name: Show GitHub Workspace
+        run: |
+          echo "GitHub Workspace: ${{ github.workspace }}"
+
+      - name: Setup Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Install dependencies
+        run: |
+          cd ${{ matrix.app }}
+          npm install
+
+      - name: Build project
+        run: |
+          cd ${{ matrix.app }}
+          npm run build
