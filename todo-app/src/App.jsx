@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1>📝 My TODO App</h1>
+      <h1>📝 My TODO Application</h1>
       <TodoForm addTodo={addTodo} />
       <TodoList todos={todos} removeTodo={removeTodo} />
 
