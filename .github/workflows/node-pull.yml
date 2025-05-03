@@ -3,7 +3,7 @@ name: Node.js Pull Request CI
 on:
   pull_request:
     branches:
-      - 'ci-cd-fresh'
+      - '**'
 
 jobs:
   build:
